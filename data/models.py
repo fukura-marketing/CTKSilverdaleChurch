@@ -3,6 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 import datetime
 import dateutil
+from config import CONST
 from collections import defaultdict
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
@@ -15,7 +16,8 @@ class EventsList:
         self.limit = 25
         self.calendar_id = calendar_id
         self.credentials = service_account.Credentials\
-            .from_service_account_file('client_secrets.json')
+            .from_service_account_info(CONST.SECRETS)
+            # .from_service_account_file('client_secrets.json')
         self.project = self.credentials.with_scopes(
             scopes=['https://www.googleapis.com/auth/calendar.readonly'])
         self.service = build('calendar', 'v3', credentials=self.project)
