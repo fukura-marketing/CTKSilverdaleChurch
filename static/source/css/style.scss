@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/**
+*  Standard Stylesheet
+*
+*  Filename: style.scss
+*  Creator: Jason Fukura
+*
+*/
+
+// Definitions & Mixins
+@import "modules/atoms/definitions";
+@import "modules/atoms/mixins";
+@import "modules/atoms/fonts";
+@import "modules/atoms/animations";
+
+// Utilities & Atoms
+@import "modules/atoms/grid";
+@import "modules/atoms/hamburgers";
+@import "modules/atoms/buttons";
+@import "modules/atoms/inputs";
+@import "modules/atoms/type";
+@import "modules/atoms/verseOfDay";
+@import "modules/atoms/eventBanner";
+@import "modules/atoms/blockList";
+@import "modules/atoms/newsList";
+@import "modules/atoms/marquee";
+@import "modules/atoms/eventCalendar";
+@import "modules/atoms/eventList";
+@import "modules/atoms/staffList";
+
+// Components
+@import "modules/base";
+@import "modules/masthead";
+@import "modules/featuredNews";
+@import "modules/devotion";
+@import "modules/staffPage";
+@import "modules/classroomUpdate";
+@import "modules/footer";

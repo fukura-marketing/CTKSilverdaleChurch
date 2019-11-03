@@ -1,0 +1,8 @@
+.verseOfDay {
+  padding: 0;
+  margin: 0;
+
+  & p {
+    font: normal em(22.62)/1.4 $body;
+  }
+}

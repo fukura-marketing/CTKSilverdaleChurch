@@ -1,0 +1,19 @@
+.staff_list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  &-item {
+    margin-bottom: 2em;
+
+    & img {
+      width: 100%;
+    }
+    & h4 {
+      margin: 0;
+    }
+    & p {
+      margin: 0;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{% if request.url.split('/')[2] != 'ci.security' %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script nonce="{{ nonce }}" async src="https://www.googletagmanager.com/gtag/js?id=UA-72734021-2"></script>
+    <script nonce="{{ nonce }}">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+        console.log('Staging GA Script');
+      gtag('config', 'UA-72734021-2');
+    </script>
+{% elif request.url.split('/')[2] == 'ci.security' %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script nonce="{{ nonce }}" async src="https://www.googletagmanager.com/gtag/js?id=UA-72734021-3"></script>
+    <script nonce="{{ nonce }}">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      console.log('Production GA Script');
+      gtag('config', 'UA-72734021-3');
+    </script>
+
+{% endif %}

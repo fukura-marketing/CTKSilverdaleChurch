@@ -1,0 +1,16 @@
+.devotion {
+  padding-top: 2em;
+  padding-bottom: 2em;
+
+  &-content {
+    & h3, & img {
+      display: none;
+    }
+
+    & blockquote {
+      border-left: 10px solid $green;
+      margin: 0;
+      padding-left: 1em;
+    }
+  }
+}

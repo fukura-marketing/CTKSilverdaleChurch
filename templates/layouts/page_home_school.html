@@ -1,0 +1,66 @@
+{# TODO: Fill out the home theme #}
+{% extends 'base.html' %}
+
+{% block content %}
+    <section class="marquee mod-school">
+{#    <section class="marquee mod-home" style="background-image:url({{ file_base }}{{ page_content['marquee_image']['data']['url'] }});">#}
+        <div class="container">
+            <div class="marquee-contents col-sm-12">
+                {% include "atoms/marquee_navigation.html" %}
+                <div class="marquee-contents-copy">
+                    <h1 class="title">{{ _data['page_title'] }}</h1>
+                    <h2 class="subtitle">{{ _data['page_subtitle'] or '' }}</h2>
+                </div>
+            </div>
+        </div>
+        {% include "atoms/next_event_banner.html" with context %}
+    </section>
+    {% include "atoms/news_featured.html" %}
+    <section class="container">
+        <div class="col-sm-8 col-lg-9">
+            {{ _data['introduction']|safe }}
+            {{ _data['curriculum']|safe }}
+
+            <div class="col-sm-10 row">
+                <h3 class="col-sm-12">Administration</h3>
+                <ul class="staff_list mod-admin col-sm-12 row">
+                {% for person in _staff %}
+                    {% if person['role_type'] == 'admin' %}
+                        {% set mod = {'picture': True, 'segment': 'school'} %}
+                        {% include 'atoms/atom_staff_list.html' %}
+                    {% endif %}
+                {% endfor %}
+                </ul>
+                <h3 class="col-sm-12">Teachers</h3>
+                <ul class="staff_list col-sm-12 row">
+                {% for person in _staff %}
+                    {% if person['role_type'] == 'full_time' %}
+                        {% set mod = {'picture': True, 'segment': 'school'} %}
+                        {% include 'atoms/atom_staff_list.html' %}
+                    {% endif %}
+                {% endfor %}
+                </ul>
+                <h3 class="col-sm-12">Part-Time Teachers</h3>
+                <ul class="staff_list mod-parttime col-sm-12 row">
+                {% for person in _staff %}
+                    {% if person['role_type'] == 'part_time' %}
+                        {% set mod = {'picture': False, 'segment': 'school'} %}
+                        {% include 'atoms/atom_staff_list.html' %}
+                    {% endif %}
+                {% endfor %}
+                </ul>
+                <h3 class="col-sm-12">Support Staff</h3>
+                <ul class="staff_list mod-support col-sm-12 row">
+                {% for person in _staff %}
+                    {% if person['role_type'] == 'support' %}
+                        {% set mod = {'picture': False, 'segment': 'school'} %}
+                        {% include 'atoms/atom_staff_list.html' %}
+                    {% endif %}
+                {% endfor %}
+                </ul>
+            </div>
+
+        </div>
+        {% include 'atoms/module_sidebar_standard.html' with context %}
+    </section>
+{% endblock %}

@@ -1,0 +1,34 @@
+<aside class="col-sm-4 col-lg-3">
+    {% if _events|length > 1 %}
+    <h4>Upcoming Events</h4>
+    <ul class="eventsList">
+        {% for event in _events %}
+        <li class="eventsList-item">
+            <div class="eventsList-item-date">
+                {% if 'dateTime' in event['start'] %}
+                    <span class="date">{{ (event['start']['dateTime']|strftime).date }}</span>
+                    <span class="month">{{ (event['start']['dateTime']|strftime).month }}</span>
+                {% else %}
+                    <span class="date">{{ (event['start']['date']|strftime).date }}<!--{% if event['start']['date'] != event['end']['date'] %}<span class="date mod-end"> - {{ (event['end']['date']|strftime).date }}</span>{% endif %}--></span>
+                    <span class="month">{{ (event['start']['date']|strftime).month }}</span>
+                {% endif %}
+            </div>
+            <div class="eventsList-item-detail">
+                <p class="summary">{{ event['summary'] }}</p>
+                {% if 'dateTime' in event['start'] %}
+                    <span class="time">{{ (event['start']['dateTime']|strftime).timeblock }} - {{ (event['end']['dateTime']|strftime).timeblock }}</span>
+                {% endif %}
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    <h4>Contact Us</h4>
+    <p>
+        {{ ACCOUNT['church_name'] }}<br>
+        {{ ACCOUNT['street_address'] }}<br>
+        {{ ACCOUNT['city'] }}, {{ ACCOUNT['region'] }} {{ ACCOUNT['postal_code'] }}<br><br>
+        {{ ACCOUNT['phone_number'] }}<br>
+        {{ ACCOUNT['email_address'] }}
+    </p>
+</aside>

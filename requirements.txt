@@ -1,0 +1,15 @@
+# cat requirements.txt
+python-dateutil
+htmlmin
+httplib2
+requests
+flask
+flask_navigation
+Flask-Testing
+Flask-Resize
+Flask-Compress
+Flask-Caching
+flask_sitemap
+flask_httpauth
+flask_sslify
+google-api-python-client

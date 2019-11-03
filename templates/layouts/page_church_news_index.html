@@ -1,0 +1,40 @@
+{# TODO: Fill out the home theme #}
+{% extends 'base.html' %}
+
+{% block content %}
+    <section class="marquee mod-home">
+{#    <section class="marquee mod-home" style="background-image:url({{ file_base }}{{ page_content['marquee_image']['data']['url'] }});">#}
+        <div class="marquee-contents container">
+            <h1 class="title col-sm-10">News & Events</h1>
+            <h2 class="subtitle col-sm-10">Christ the King Church News Updates</h2>
+        </div>
+    </section>
+    <section class="banner">
+{#    NEXT EVENT #}
+    </section>
+    <section class="container">
+        {% include "atoms/news_featured.html" %}
+    </section>
+    <section class="container">
+        <div class="col-sm-8 col-lg-9">
+            <h2>Latest News</h2>
+            <ul class="news_list">
+                {% for article in _data['news'] %}
+                    <li class="news_list-item">
+                        <a href="/church/news/{{ article['slug'] }}" class="news_list-item-target">
+                            <div class="news_list-item-image">
+                                <img class="blockList-item-image" src="{{ article['primary_image']['data']['thumbnails'][1]['url'] }}" alt="{{ article['title'] }}">
+                            </div>
+                            <div class="news_list-item-content">
+                                <h3>{{ article['title'] }}</h3>
+                                <p>{{ (article['publish_date']|strftime).dateblock }}, {{ (article['publish_date']|strftime).yblock }}</p>
+                            </div>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% include 'atoms/module_sidebar_standard.html' with context %}
+    </section>
+
+{% endblock %}

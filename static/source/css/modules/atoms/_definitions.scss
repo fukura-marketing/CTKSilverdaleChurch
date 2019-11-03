@@ -1,0 +1,49 @@
+/**
+ * SASS Definitions
+ *
+ * This file includes the following definitions:
+    - Font imports and variable definition
+    - Color definitions
+    - Mixins (TBD)
+ *
+ */
+
+// Fonts
+$fontdir: '/static/fonts/';
+
+$heading: 'Roboto', sans-serif;
+$body:    'Roboto Slab', serif;
+
+
+
+/* Coolors Exported Palette - coolors.co/8c8f96-4a525a-24272b-1c1c21-09357a */
+
+
+$blue:    #0E3746;
+$gold:    #F4B942;
+
+$gray-0: #413e3b;
+$gray-1: #787572;
+$gray-2: #a59d91;
+$gray-3: #cdc5b9;
+$gray-4:  #FAF2E5;
+
+$purple: #4B2637;
+$sky:     #2D5D7C;
+$teal:    #00A8A8;
+$green: #84d864;
+$red:     #EA605E;
+
+// For Links Only
+$ui-link:         $sky;
+$ui-link-visited: $purple;
+
+// B64 Icons
+$ico-linkext:   "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAolBMVEUAAAAflf8flf8elf8A//8gk/8flv8elv8flf8jl/8hl/8flf8glf8flf8glf8glP8elP8Xi/8flf8glf8elf8amf8flP8gk/8flf8glf8flf8dl/8glP8elP8flf8emP8flf8flf8flP8hlP8flv8glf8flf8fl/8flv8flf8elv8flf8glf8glf8flf8kkv8cjv8glf8flf8flf8flf8AAAD2iYlgAAAANHRSTlMAfdjBAUenuLYWNvBx44BwbgtB2k0KvSjqYOksNyvoKqspdT7ckORCrHR+0VlI9BUJZ8ejfGWnzwAAAAFiS0dEAIgFHUgAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfiBgcTCy09hEWnAAAAgUlEQVQY02NgwA0YmYCAmYGFlY0dBDg4ubhNgICBh5ePHwQEBBmEwALCIjAtomJgARNxBF9CkhshAORLSTPIsMMEQHxZMAsiAOTLyTMgCSiYyCkyKCkhBJRVFBkYVFURAmAAEVBThwtoaIJILW0dXQjg09MHCRgYGjFBgDEXVj8DAB5LDgdF8nD3AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA2LTA3VDE5OjExOjQ1KzAyOjAw67I8HwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNi0wN1QxOToxMTo0NSswMjowMJrvhKMAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC";
+$ico-linkext-w: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfiBgcTAQsVZijQAAAA0ElEQVQoz42RoW4CQRRFz5AqDMFCBSQIKDUoqhG4FQRZs19ACGFl0SSV1f2C/gBp0opK+AASNCS7VIDBchE7CwNsAlfN3HPnvbw3cEMmzdQbr/YYGRna+OSPdI9PiW9y8fWBPgM+2TqBnZmqw29SbiHvqkVWP7JCUjUVr+VrmxKwONIzqKnJReCI6yfLCVgc6skt6Qa+JIWqgQIFyZiuPmjgmTlQTKyzgPmjcjlyhhWFlG0/srSPNKLLmM0ZfmFI2fzHLd6J6Dl/ATCjFeM7dAA+sGmCK/iGPQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0wNi0wN1QxOTowMToxMSswMjowMJaTyagAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMDYtMDdUMTk6MDE6MTErMDI6MDDnznEUAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAABJRU5ErkJggg==";
+
+$sm-width: 360px;
+$md-width: 768px;
+$lg-width: 1200px;
+$xl-width: 1440px;
+$hd-width: 1920px;

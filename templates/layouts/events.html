@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <section class="marquee mod-cross">
+{#    <section class="marquee mod-home" style="background-image:url({{ file_base }}{{ page_content['marquee_image']['data']['url'] }});">#}
+        <div class="container">
+            <div class="marquee-contents col-sm-12">
+                {% include "atoms/marquee_navigation.html" %}
+                <div class="marquee-contents-copy">
+                    <h1 class="title">Upcoming Events</h1>
+                    <h2 class="subtitle">Events at Christ the King Lutheran Church & School</h2>
+                    <a class="btn mod-white mod-offsite"
+                       href="https://calendar.google.com/calendar/embed?{{ _calendar_id }}&ctz=America%2FLos_Angeles" target="_blank">Go to the full calendar</a>
+                </div>
+            </div>
+        </div>
+        {% include "atoms/next_event_banner.html" with context %}
+    </section>
+    <section class="container">
+        <div class="col-sm-8 col-lg-9 event_calendar">
+        {% for year in _events_calendar %}
+            {% for month in _events_calendar[year] %}
+                <div class="col-sm-12 row event_calendar-month">
+                    <h3>{{ month|to_month_name }}</h3>
+                    {% for day in _events_calendar[year][month] %}
+                        <div class="event_calendar-month-row">
+                            <div class="col-sm-2 event_calendar-month-row-date">
+                                {{ day }}
+                            </div>
+                            {% set events = _events_calendar[year][month][day]|to_json %}
+                            <ul class="col-sm-10 event_calendar-month-row-event">
+                                {% for event in events %}
+                                    <li class="event_detail">
+                                        <a class="event_detail-target" href="{{ event['htmlLink'] or '' }}" target="_blank">
+                                            <div class="event_detail-event">
+                                                <p class="event_detail-event-summary">{{ event['summary'] }}</p>
+                                                {% if event['location'] %}
+                                                    <p class="event_detail-event-location">{{ event['location'] }}</p>
+                                                {% endif %}
+
+                                                {% if event['start.day'] != event['end.day'] %}
+                                                    <br>
+                                                    <small class="event_detail-event-end">Ends on {{ event['end.month'] }}/{{ event['end.day'] }}</small>
+                                                {% endif %}
+                                            </div>
+                                            <div class="event_detail-time">
+                                                {% if event['start.dateTime'] %}
+                                                    <small>{{ (event['start.dateTime']|strftime).timeblock }} - {{ (event['end.dateTime']|strftime).timeblock }}</small>
+                                                {% else %}
+                                                    <small>All Day</small>
+                                                {% endif %}
+                                            </div>
+                                        </a>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    {% endfor %}
+                </div>
+
+            {% endfor %}
+        {% endfor %}
+        </div>
+        {% include 'atoms/module_sidebar_standard.html' with context %}
+    </section>
+{% endblock %}

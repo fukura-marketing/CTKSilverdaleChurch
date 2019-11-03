@@ -1,0 +1,16 @@
+<section class="event_banner">
+    <div class="container event_banner-contents">
+        <div class="event_banner-contents-body col-sm-9">
+            <small>Next Event</small>
+            <h3>{{ _events[0]['summary'] }}</h3>
+            {% if 'dateTime' in _events[0]['start'] %}
+                <p>{{ (_events[0]['start']['dateTime']|strftime)['dateblock'] }}, {{ (_events[0]['start']['dateTime']|strftime)['yblock'] }} &middot; {{ (_events[0]['start']['dateTime']|strftime)['timeblock'] }}</p>
+            {% else %}
+                <p>All Day</p>
+            {% endif %}
+        </div>
+        <div class="event_banner-contents-cta col-sm-3">
+            <a href="{{ url_for('{}.events'.format(_context)) }}" class="btn mod-white">More events</a>
+        </div>
+    </div>
+</section>

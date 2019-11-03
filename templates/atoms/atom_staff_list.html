@@ -1,0 +1,12 @@
+<li class="staff_list-item col-sm-4">
+    {% if mod['picture'] %}
+        <img src="{{ person['person']['avatar']['data']['thumbnails'][0]['url'] }}" alt="">
+    {% endif %}
+    <h4>{{ person['person']['first_name'] }} {{ person['person']['last_name'] }}</h4>
+    <small><a href="mailto:{{ person['person']['email'] }}">{{ person['person']['email'] }}</a></small><br>
+    <small>{{ person['position'] }}</small><br>
+    {% if person['has_page'] %}
+        {% set slug = "{}-{}".format(person['person']['first_name'].lower(), person['person']['last_name'].lower()) %}
+        <small><a href="{{ url_for(mod['segment'] + '.' + mod['segment'] + '_staff', staff=slug) }}">Go to my page <i class="btr bt-arrow-right"></i></a></small>
+    {% endif %}
+</li>

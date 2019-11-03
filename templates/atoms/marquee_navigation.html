@@ -1,0 +1,18 @@
+<div class="marquee-contents-nav">
+    {% for item in nav.top %}
+        {% if item.is_current %}
+            <h3>{{ item.label }}</h3>
+            {% if item.items %}
+                <ul class="marquee-nav">
+                    {% for sub in item.items %}
+                        <li class="navigation-sub-item">
+                            <a href="{{ sub.url }}"
+                               class="navigation-sub-item-target{{ ' is-active' if sub.is_current or '' }}"
+                                    {{ 'aria-current=page' if sub.is_current or '' }}>{{ sub.label }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>

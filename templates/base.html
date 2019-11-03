@@ -1,0 +1,45 @@
+{#
+ __   __  _______  ___      _______  _______  __   __  _______  ___
+|  |_|  ||   _   ||   |    |   _   ||       ||  | |  ||   _   ||   |
+|       ||  |_|  ||   |    |  |_|  ||       ||  |_|  ||  |_|  ||   |
+|       ||       ||   |    |       ||       ||       ||       ||   |
+|       ||       ||   |___ |       ||      _||       ||       ||   |
+| ||_|| ||   _   ||       ||   _   ||     |_ |   _   ||   _   ||   |
+|_|   |_||__| |__||_______||__| |__||_______||__| |__||__| |__||___|
+
+#}
+<!DOCTYPE html>
+
+<!--suppress CheckEmptyScriptTag, JSUnresolvedLibraryURL -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <title>{{ _meta['title'] or '' }} | Christ the King Lutheran</title>
+    <meta name="description" content="{{ _meta['description'] or '' }}" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700|Roboto+Slab:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.min.css') }}">
+    {% block open_graph %}{% endblock %}
+    {#    {% include "atoms/scripts_google.html" %}#}
+    {% include "atoms/doc_meta.html" %}
+</head>
+<body>
+
+{% include "atoms/layout_header.html" with context %}
+
+<main id="layout_main">
+    {% block content %}{% endblock %}
+</main>
+
+{% include "atoms/layout_footer.html" with context %}
+
+<script nonce="{{ NONCE }}"
+        src="{{ url_for('static', filename='scripts.babel.min.js') }}?v{{ VERSION }}"></script>
+
+{% block script_include %}{% endblock %}
+
+{#{% include "atoms/scripts_tracking.html" %}#}
+
+</body>
+</html>

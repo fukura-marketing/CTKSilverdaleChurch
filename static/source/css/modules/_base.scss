@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+html {
+  font-size: 100%;
+  min-height: 100vh;
+}
+
+body {
+  font: normal 400 1em/1.28em 'Roboto Slab';
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+    max-width: 100%;
+    border: none;
+}
+
+@include phone() {
+  .xs-invisible {
+    display: none;
+  }
+}

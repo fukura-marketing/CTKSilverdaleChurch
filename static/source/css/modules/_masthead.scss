@@ -1,0 +1,130 @@
+/**
+ *
+ * @markup
+<header class="masthead">
+    <div class="logo">
+        <img src="#" alt="" class="logo-img">
+    </div>
+    <nav class="masthead-nav">
+        <ul class="navigation-top">
+            {% for item in nav.top %}
+                <li class="navigation-top-item">
+                    <a href="{{ item.url }}" class="navigation-top-item-target{{ ' is-active' if '/' + request.path.split('/')[1] + '/' == item.url or '' }}">{{ item.label }}</a>
+                    <ul class="navigation-sub">
+                        {% for sub in item.items %}
+                            <li class="navigation-sub-item">
+                                <a href="{{ sub.url }}" class="navigation-sub-item-target{{ ' is-active' if sub.is_current or '' }}">{{ sub.label }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
+ */
+
+.masthead {
+  padding: 1em;
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+
+  &-contents {
+    display: flex;
+    justify-content: space-between;
+
+    & .logo {
+      padding: 5px;
+      display: flex;
+      align-items: center;
+
+      &-img {
+        height: 3em;
+      }
+
+      &-text {
+        padding-left: 1rem;
+        font: normal 300 2em/1 $heading;
+        color: #ffffff;
+      }
+    }
+  }
+
+  &-nav {
+    display: flex;
+  }
+}
+
+.navigation-top {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+
+  &-item {
+    position: relative;
+    padding-left: 10px;
+
+    &-target {
+      padding: 0.5em 1em;
+      color: #ffffff;
+
+      &.is-active, &[aria-current=page] {
+        color: #FFFFFF;
+        border: 1px solid;
+      }
+
+    }
+
+    & .navigation-sub {
+      position: absolute;
+      display: none;
+      list-style-type: none;
+      background: #FFFFFF;
+      @include shadow(#000, 0.9, 20);
+      margin: 0.5em 0 0 0;
+      padding: 0;
+      top: 100%;
+
+      &-item {
+        &:hover, &:focus {
+          background: transparentize($ui-link, 0.8);
+        }
+        &-target {
+          white-space: nowrap;
+          padding: 0.5em 2em 0.5em 1em;
+          display: block;
+          color: $gray-0;
+
+          &.is-active {
+            background: $ui-link;
+            color: #ffffff;
+          }
+        }
+      }
+    }
+
+    &:hover, &:focus {
+      & .navigation-top-item-target {
+        background: transparentize(#FFFFFF, 0.7);
+      }
+      & .navigation-sub {
+        display: block;
+        z-index: 1;
+
+        &::after {
+          content: "";
+          background: transparent;
+          position: absolute;
+          top: -5px;
+          left: -20px;
+          right: -20px;
+          bottom: -20px;
+          z-index: -1;
+        }
+      }
+    }
+  }
+}

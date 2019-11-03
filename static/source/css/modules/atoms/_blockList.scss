@@ -1,0 +1,58 @@
+.blockList {
+  list-style-type: none;
+  margin: 2em 0;
+
+  &.mod-flex {
+    display: flex;
+  }
+
+  &.mod-overlap {
+    margin-top: -3em;
+    background: #ffffff;
+    @include shadow(#000000, 0.8, 50);
+  }
+
+  &-item {
+    position: relative;
+
+
+    &-image {
+      width: 100%;
+      display: block;
+    }
+
+    &-contents {
+      position: absolute;
+      background: #ffffff;
+      bottom: 1rem;
+      padding: 0.5rem 1rem;
+      transition: all 0.25s ease;
+
+    }
+    &-target {
+      color: $gray-1;
+      display: block;
+
+      & .headline {
+        margin: 0;
+        font: normal 700 em(16)/1.4 $body;
+    }
+      & p {
+        margin: 0;
+        color: $ui-link;
+        transition: all 0.25s ease;
+      }
+    }
+
+    &:hover, &:focus {
+      & .blockList-item-target, & .blockList-item-target p {
+        color: #ffffff;
+      }
+
+      & .blockList-item-contents {
+        background: $ui-link;
+      }
+    }
+
+  }
+}

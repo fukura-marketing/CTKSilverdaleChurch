@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>PT Devotion</title>
+	<atom:link href="http://wels.net/dev-daily/feed/pt-dev-daily/?redirect=no" rel="self" type="application/rss+xml" />
+	<link>https://wels.net/serving-you/devotions/</link>
+	<description>WELS Daily Devotions</description>
+	<lastBuildDate>Sun, 03 Nov 2019 06:00:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=5.2.4</generator>
+<!-- podcast_generator="Blubrry PowerPress/8.0.2" mode="advanced" posttype="dev-daily" feedslug="pt-dev-daily" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>Christs Love Our Calling</itunes:summary>
+	<itunes:author>PT Devotion</itunes:author>
+	<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+	<itunes:owner>
+		<itunes:name>PT Devotion</itunes:name>
+		<itunes:email>webmaster@wels.net</itunes:email>
+	</itunes:owner>
+	<managingEditor>webmaster@wels.net (PT Devotion)</managingEditor>
+	<copyright>WELS 2019 Copyright. All rights reserved.</copyright>
+	<itunes:subtitle>Christs Love Our Calling</itunes:subtitle>
+	<image>
+		<title>PT Devotion</title>
+		<url>https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg</url>
+		<link>https://wels.net/serving-you/devotions/</link>
+	</image>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Christianity"></itunes:category>
+	</itunes:category>
+	<googleplay:category text="Religion &amp; Spirituality"/>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>Waukesha, WI</rawvoice:location>
+	<rawvoice:frequency>Daily</rawvoice:frequency>
+	<item>
+		<title>Wrong Turn &#8211; November 3, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191103/</link>
+		<pubDate>Sun, 03 Nov 2019 06:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24054</guid>
+		<comments>https://wels.net/dev-daily/dd20191103/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191103/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;Jesus did far more than chart a safe course...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>No one will be declared righteous in God&#8217;s sight by the works of the law; rather, through the law we become conscious of our sin.<br />
+<strong>Romans 3:20</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Wrong Turn</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191103dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; November 3, 2019</b></div>
+<p>Devotion based on Romans 3:20<br />
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-24054-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191103dev.mp3?_=1" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191103dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191103dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>The name of Leopold Loyka is not a household name. Nevertheless, Leopold Loyka is the man who made one of the most consequential wrong turns in human history.</p>
+<p>Leopold was a chauffeur and a prestigious one at that. His job was to serve as the official driver for a high-ranking official from Austria, a man by the name of Franz Ferdinand. In June of 1914, Ferdinand decided to visit Sarajevo, a city that harbored hostility toward Austrian rule. As Leopold drove the car through the city with Ferdinand as his passenger, he made a wrong turn. When he stopped to correct his mistake, it so happened that he passed directly in front of a man who very much wanted to see Franz Ferdinand dead. The man seized his chance and shot Ferdinand to death.</p>
+<p>The assassination of Franz Ferdinand of Austria was the spark that started World War I. World War I, in turn, set the stage for World War II. In all, 77 million people perished. And it all began with a wrong turn.</p>
+<p>There is another wrong turn in human history that has even greater consequences. It is the false assumption that we can make our own way into God&#8217;s favor. It is the false assumption that we can chart our own course into a right relationship with God. Such thinking is not only wrong-headed and self-absorbed; such thinking also has consequences that are fatal, and eternal.</p>
+<p>Enter Jesus. Jesus did far more than chart a safe course. He created a path where none had existed. The path was himself. He alone was the way. As our substitute, he lived and died on our behalf. Through faith in him, God&#8217;s favor is ours, forgiveness is ours, peace is ours, life is ours. And not just for a while, but forever.</p>
+<p>Through faith in Jesus, we will one day arrive safe and sound in our heavenly home.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord Jesus, forgive all of the wrong turns in my life—all of the times I have turned away from you. Turn me again and again toward you until I see you face to face in the heaven you are preparing for me. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191103%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191103dev.mp3" length="5628640" type="audio/mpeg" />
+	<itunes:subtitle>Jesus did far more than chart a safe course...</itunes:subtitle>
+		<itunes:summary>Jesus did far more than chart a safe course...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>3:18</itunes:duration>
+		</item>
+	<item>
+		<title>Suffering for the Gospel &#8211; November 2, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191102/</link>
+		<pubDate>Sat, 02 Nov 2019 06:00:19 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24053</guid>
+		<comments>https://wels.net/dev-daily/dd20191102/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191102/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;Suffering for the gospel is not a burden. it is a sweet privilege...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>[J]oin with me in suffering for the gospel.<br />
+<strong>2 Timothy 1:8</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Suffering for the Gospel</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191102dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; November 2, 2019 </b></div>
+<p>Devotion based on 2 Timothy 1:8<br />
+<audio class="wp-audio-shortcode" id="audio-24053-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191102dev.mp3?_=2" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191102dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191102dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>Tour guides in Rome will describe what the Apostle Paul&#8217;s dungeon was like—the dungeon he lived in as he awaited execution. Many think that it was like an empty cistern in the ground, with only a hole in the top for light.</p>
+<p>So picture Paul at the bottom of that dungeon. He&#8217;s alone. He’s cold. He knows he is going to die. Then the Holy Spirit moves him to write one final letter, a letter to his friend Timothy. From the darkness of that pit, the living and enduring Word of God comes to Timothy. And across the miles and centuries, that same Word comes to you and me.</p>
+<p>Among the many extraordinary things that Paul includes in his last letter is this: &#8220;Join me in suffering for the gospel.&#8221; As Paul considered all that the Lord Jesus had done for him, he was gladly willing to suffer for the sake of standing up for the Good News of Christ.</p>
+<p>You and I live in a society that, to a great degree, has gotten used to avoiding pain and inconvenience at all costs. For this reason, it&#8217;s easy for us to go on automatic pilot and avoid standing up for the gospel if doing so involves any discomfort or trouble. Such abandonment of our Lord is wrong. It&#8217;s sin. And deep down we know it.</p>
+<p>So look to Jesus again. Come to him in repentance. Be washed clean in his blood. Then, as a forgiven child of God, recognize the opportunities you have every day to join with the Apostle Paul. Perhaps it is remaining faithful and Christlike during a difficult stretch in your marriage. Perhaps it is refusing to fill your conversation with complaints about your physical aches and pains. Or perhaps it is accepting ridicule because you are open about your Christian faith.</p>
+<p>Just remember. In light of what Jesus has done for you, suffering for the gospel is not a burden. It is a sweet privilege.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord Jesus, in you I am forgiven. In you I have life. Empower me to endure any trouble for the sake of serving as a witness for you. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191102%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191102dev.mp3" length="5202247" type="audio/mpeg" />
+	<itunes:subtitle>Suffering for the gospel is not a burden. it is a sweet privilege...</itunes:subtitle>
+		<itunes:summary>Suffering for the gospel is not a burden. it is a sweet privilege...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>3:02</itunes:duration>
+		</item>
+	<item>
+		<title>Teach Believe Love &#8211; November 1, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191101/</link>
+		<pubDate>Fri, 01 Nov 2019 06:00:16 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24052</guid>
+		<comments>https://wels.net/dev-daily/dd20191101/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191101/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;Teach. Believe. Love...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>What you heard from me, keep as the pattern of sound teaching, with faith and love in Christ Jesus.<br />
+<strong>2 Timothy 1:13</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Teach Believe Love</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191101dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; November 1, 2019</b></div>
+<p>Devotion based on 2 Timothy 1:13<br />
+<audio class="wp-audio-shortcode" id="audio-24052-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191101dev.mp3?_=3" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191101dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191101dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>It&#8217;s a great blessing to have Christians in your life who know the pattern of sound Christian teaching and who pass it on. Some of what the Bible says matches your conscience, but most of it does not come naturally. It has to be taught and learned, and nothing is more valuable. For example, when someone teaches and shows you how to make forgiveness in Jesus a main focus of your life, you appreciate it because of the tremendous comfort it brings.</p>
+<p>You also appreciate it when Christians in your life demonstrate their faith in Jesus. It&#8217;s especially helpful to see them in action during the difficult times. They are sure of the promises of God even when it’s not easy to see how God will keep those promises. The confidence of believers is reassuring when everyone else seems to be panicking.</p>
+<p>Along with passing along Christian teaching and demonstrating faith in Jesus, we are also blessed when our fellow Christians demonstrate the love God has placed in their hearts. Nothing makes life more pleasant than people who love you. Christians in your life reflect the love of Christ Jesus and love you even when you don&#8217;t deserve it. You can teach the truths of the Lord, and you can believe his promises, but those two very valuable things ring hollow to other people if you do not demonstrate love to them.</p>
+<p>Christians around the world celebrate November 1st as All Saints Day, remembering all of the people who lived Christian lives and died in the faith. What is the best way to honor them?</p>
+<p>Teach. Believe. Love.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong> (Christian Worship: A Lutheran Hymnal &#8211; 551)<br />
+For all the saints who from their labors rest, all who their faith before the world confessed, your name, O Jesus, be forever blest. Alleluia! Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191101%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191101dev.mp3" length="4729784" type="audio/mpeg" />
+	<itunes:subtitle>Teach. Believe. Love...</itunes:subtitle>
+		<itunes:summary>Teach. Believe. Love...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:45</itunes:duration>
+		</item>
+	<item>
+		<title>You Will Suffer &#8211; October 31, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191031/</link>
+		<pubDate>Thu, 31 Oct 2019 06:00:14 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24043</guid>
+		<comments>https://wels.net/dev-daily/dd20191031/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191031/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;You’ll suffer, but God will provide his power, and it will be worth it....</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>Do not be ashamed of the testimony about our Lord or of me his prisoner. Rather, join with me in suffering for the gospel, by the power of God. He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace.<br />
+<strong>2 Timothy 1:8,9</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>You Will Suffer</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191031dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 31, 2019</b></div>
+<p>Devotion based on 2 Timothy 1:8,9<br />
+<audio class="wp-audio-shortcode" id="audio-24043-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191031dev.mp3?_=4" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191031dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191031dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>It&#8217;s Reformation Day! Other holidays are being celebrated today around the world, but for the next few moments, we will concentrate on Reformation Day.</p>
+<p>October 31st is the day over 500 years ago when a German man named Martin Luther nailed a sheet of paper to a church door in the city of Wittenberg. The piece of paper invited people to debate what the Bible said about a number of religious topics.</p>
+<p>Some of the positions that Martin Luther took in that invitation to debate were not real popular. He talked about repentance and forgiveness through faith in Jesus rather than through traditions of the church. He noted that some religious leaders of his day offered a false peace, while real peace was found only through Jesus. He said that God saved us because of grace, not because of our own good works. He insisted that God wants us to live holy everyday lives, and we don&#8217;t need to have a special position in the church to do that.</p>
+<p>Holding to those truths of the Bible got Martin Luther excommunicated from his church and declared an outlaw by his government. But he was not ashamed of the gospel. He continued to teach and preach what the Bible said, and people around the world called for reform of the church. That&#8217;s why it&#8217;s Reformation Day!</p>
+<p>Will you suffer today if you insist that Jesus is the only way to heaven? People are going to call you intolerant. Will you suffer if you insist that holiness comes through faith in Jesus and not through the traditions of a church? There are people injured and dying today somewhere in the world because they dare to confess that.</p>
+<p>Do not be ashamed of those who suffer. Join with them in confessing the truth. You&#8217;ll suffer, but God will provide his power, and it will be worth it.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord God, be my mighty fortress when I suffer for speaking your truth. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191031%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191031dev.mp3" length="5287298" type="audio/mpeg" />
+	<itunes:subtitle>You’ll suffer, but God will provide his power, and it will be worth it....</itunes:subtitle>
+		<itunes:summary>You’ll suffer, but God will provide his power, and it will be worth it....</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>3:03</itunes:duration>
+		</item>
+	<item>
+		<title>Keep on Forgiving &#8211; October 30, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191030/</link>
+		<pubDate>Wed, 30 Oct 2019 06:00:38 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24015</guid>
+		<comments>https://wels.net/dev-daily/dd20191030/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191030/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;The key to a Christian life is so simple and yet so difficult...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>[Jesus said] &#8220;If your brother or sister sins against you, rebuke them; and if they repent, forgive them. Even if they sin against you seven times in a day and seven times come back to you saying, ‘I repent,’ you must forgive them.&#8221;<br />
+<strong>Luke 17:3,4</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Keep on Forgiving</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191030dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 30, 2019</b></div>
+<p>Devotion based on Luke 17:3,4<br />
+<audio class="wp-audio-shortcode" id="audio-24015-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191030dev.mp3?_=5" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191030dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191030dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>The key to a Christian life is so simple and yet so difficult. People are going to sin against you. They are going to treat you poorly, they are going to think of themselves before you, and they will be oblivious that they have done anything wrong. What do you do then? Jesus says to lovingly rebuke them.</p>
+<p>You are going to treat others poorly—sometimes obliviously, and sometimes, you have to admit, on purpose—because you are thinking of yourself. What do you do when they call you out? Repent. Tell them that you are sorry for what you have done.</p>
+<p>When you rebuke people—calling them out—and they respond by saying, &#8220;I&#8217;m sorry&#8221; or &#8220;I repent,&#8221; what is your next step? Forgive them! It&#8217;s so hard. You want to teach them a lesson, and you don&#8217;t want to get hurt again, but Jesus is very clear here. &#8220;Even if they sin against you seven times in a day and seven times come back to you saying, &#8216;I repent,&#8217; you must forgive them.&#8221;</p>
+<p>How do you forgive them when it gets difficult? Think about how God has forgiven you even when you don&#8217;t deserve it. God does that because of what Jesus Christ has done, and that&#8217;s the same place you get your strength. Think about what Jesus Christ has done—for you and the other person—and forgive that person because of Jesus.</p>
+<p>It&#8217;s so simple! It&#8217;s so difficult. But it is the key to living a Christian life. God bless your efforts to forgive others as you have been forgiven.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Dear Father, forgive us our sins, as we forgive those who sin against us. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191030%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191030dev.mp3" length="5089890" type="audio/mpeg" />
+	<itunes:subtitle>The key to a Christian life is so simple and yet so difficult...</itunes:subtitle>
+		<itunes:summary>The key to a Christian life is so simple and yet so difficult...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:59</itunes:duration>
+		</item>
+	<item>
+		<title>Revealed by the Resurrection &#8211; October 29, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191029/</link>
+		<pubDate>Tue, 29 Oct 2019 06:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24013</guid>
+		<comments>https://wels.net/dev-daily/dd20191029/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191029/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;Jesus showed that God could deliver on his promise...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>This grace was given us in Christ Jesus before the beginning of time, but it has now been revealed through the appearing of our Savior, Christ Jesus, who has destroyed death and has brought life and immortality to light through the gospel.<br />
+<strong>2 Timothy 1:9,10</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Revealed by the Resurrection</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191029dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 29, 2019</b></div>
+<p>Devotion based on 2 Timothy 1:9,10<br />
+<audio class="wp-audio-shortcode" id="audio-24013-6" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191029dev.mp3?_=6" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191029dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191029dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>God always planned to love us even when we didn&#8217;t deserve it. He called that &#8220;grace,&#8221; and even before he created the world, he knew how he was going to square that grace with his perfect justice. He was going to do that through the work of Christ Jesus.</p>
+<p>Jesus lived an absolutely perfect life, which no other human being had been able to do. But instead of taking the heaven that he deserved, he took the death and hell that we deserve. He gave eternal life in heaven to everyone who believes in him, plain and simple. We call that grace because we don&#8217;t deserve it.</p>
+<p>God told his people about this grace for thousands of years after the creation of the world. But it was not until Jesus&#8217; appeared that God&#8217;s plan was fully revealed. Jesus destroyed death by coming back from it, and he promises that everyone who believes in him will do the same. The good news that we will not stay dead, but instead will rise again, body and soul, is called the gospel.</p>
+<p>Anyone can make promises, but by rising from the dead, Jesus showed that God could deliver on his promise. Now you can be confident that you will rise too. It&#8217;s not a mystery any more what happens after death. The truth has been revealed by the appearing of our Savior.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord God, we praise you for your grace, given us in Christ Jesus. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191029%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191029dev.mp3" length="4309577" type="audio/mpeg" />
+	<itunes:subtitle>Jesus showed that God could deliver on his promise...</itunes:subtitle>
+		<itunes:summary>Jesus showed that God could deliver on his promise...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:29</itunes:duration>
+		</item>
+	<item>
+		<title>Really No Choice at All &#8211; October 28, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191028/</link>
+		<pubDate>Mon, 28 Oct 2019 06:00:52 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24014</guid>
+		<comments>https://wels.net/dev-daily/dd20191028/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191028/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;God has a gift for you...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.<br />
+<strong>Romans 6:23</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Really No Choice at All</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191028dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 28, 2019</b></div>
+<p>Devotion based on Romans 6:23<br />
+<audio class="wp-audio-shortcode" id="audio-24014-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191028dev.mp3?_=7" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191028dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191028dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>Let&#8217;s say your employer gives you a choice. At the end of the week, you can receive what you have earned, or you can receive something that your employer has chosen as a gift instead. Which do you choose?</p>
+<p>You might be tempted to take what you earned. After all, you have earned it. But then you remember that your employer told you to get a project done, and you aren&#8217;t even close to finished. Suddenly you’re not so sure that it&#8217;s smart to take what you have earned.</p>
+<p>But will your employer&#8217;s gift be any better? It depends on who your employer is, doesn&#8217;t it? If you trust that the gift will be something good because your employer is good, you&#8217;re more likely to go that direction. If you&#8217;re not sure you can trust your employer, you will be suspicious of the gift.</p>
+<p>God says that without him at the end of life you will be paid for what you have done, and since you have sinned, the wage you receive will be death. When God mentions death, he&#8217;s not just talking about the separation of soul and body. He&#8217;s talking about eternal separation from him.</p>
+<p>But God has a gift for you. That gift is eternal life with him in heaven. You have that gift only through Christ Jesus our Lord. Jesus earned that gift for you by living a perfect life—without sin—and then taking the punishment for your sin when he died. Through faith in Jesus, you have his perfect life credited to your account. It’s a gift, and it comes with the forgiveness of your sins and eternal life in heaven.</p>
+<p>Thank God he has promised not to give us what our sins have earned. Thank him that he has chosen instead to give us the gift of eternal life.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord God, thank you for the gift of eternal life in Christ Jesus our Lord. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191028%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191028dev.mp3" length="4855164" type="audio/mpeg" />
+	<itunes:subtitle>God has a gift for you...</itunes:subtitle>
+		<itunes:summary>God has a gift for you...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:49</itunes:duration>
+		</item>
+	<item>
+		<title>The Lord is Near &#8211; October 27, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191027/</link>
+		<pubDate>Sun, 27 Oct 2019 06:00:15 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=24012</guid>
+		<comments>https://wels.net/dev-daily/dd20191027/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191027/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;As we face the troubles and dangers of life...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SundayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>The L<span style="font-size: small;">ORD</span> is my light and salvation—whom shall I fear? The L<span style="font-size: small;">ORD</span> is the stronghold of my life—of whom shall I be afraid?<br />
+<strong>Psalm 27:1</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>The Lord is Near</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191027dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion -October 27, 2019 </b></div>
+<p>Devotion based on Psalm 27:1<br />
+<audio class="wp-audio-shortcode" id="audio-24012-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191027dev.mp3?_=8" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191027dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191027dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>A man was walking down a very dark and unfamiliar road late at night. His car had broken down and he decided that he would go for help. Clouds blocked any light from the sky. It was pitch black.</p>
+<p>As he walked, he gingerly took each step hoping to stay on the road. Suddenly, he slipped off the edge and found himself falling. Certain that he was falling to his death somewhere below, he desperately reached out for something to break his fall. His hand found a bush growing from the side the hill and he hung on for dear life.</p>
+<p>His calls for help were in vain. His arms grew weaker by the moment. He was tired and afraid. As his grasp slipped and he began to fall, he thought he was going to die. A moment later, however, his feet landed on the soft grass below. Safety had been only inches away. If only he had let go sooner! He could have avoided all that effort, stress, and fear.</p>
+<p>As we face the troubles and dangers of life, we often forget that help is close by. But &#8220;the L<span style="font-size: small;">ORD</span> is near to all who call on him, to all who call on him in truth&#8221; (Psalm 145:18). Worried about your sins? Afraid of death? Concerned about the future? Don&#8217;t be. Your Lord and Savior is always there for you. Don&#8217;t be afraid! Just let go! Put your trust in the Lord!</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+In this world, I am constantly surrounded by dangers. But with you at my side, Lord, I need never be afraid. Teach me to turn my troubles and cares over to you. You are my help and my salvation. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191027%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191027dev.mp3" length="4488478" type="audio/mpeg" />
+	<itunes:subtitle>As we face the troubles and dangers of life...</itunes:subtitle>
+		<itunes:summary>As we face the troubles and dangers of life...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:35</itunes:duration>
+		</item>
+	<item>
+		<title>Contentment &#8211; October 26, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191026/</link>
+		<pubDate>Sat, 26 Oct 2019 06:00:07 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=23943</guid>
+		<comments>https://wels.net/dev-daily/dd20191026/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191026/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;We don’t know the treasure we already possess...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-SaturdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>If we have food and clothing, we will be content with that.<br />
+<strong>1 Timothy 6:8</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Contentment</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191026dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 26, 2019</b></div>
+<p>Devotion based on 1 Timothy 6:8<br />
+<audio class="wp-audio-shortcode" id="audio-23943-9" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191026dev.mp3?_=9" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191026dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191026dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>There&#8217;s an old story from India about a man by the name of Ali. Ali had a huge acreage full of orchards and crops. He was deeply satisfied and content with his farm. That all changed, however, when the possibility of owning a diamond mine overpowered him. Ali sold his farm and used the money to explore areas considered to have great potential for diamonds. Eventually, he spent himself into poverty, and in despair, he took his own life.</p>
+<p>Years later, the new owner of Ali&#8217;s former farm was leading an animal to the farm&#8217;s brook for a drink. As he stood there, he saw something shimmering in the water. Diamonds. The man had just discovered what came to be known as the diamond mine of Golcanda, one of the most famous diamond mines in history.</p>
+<p>The tentacles of our sinful nature can often get us to think and act like Ali. We don’t know the treasure we already possess. We search elsewhere. But our searching only leads us away from the one place we never should have left.</p>
+<p>Thank God that our treasure is not some shiny rock in a stream. Thank God that our treasure is our living and active Savior from sin—someone who pursues us when we stray, brings us to repentance, washes us clean, and takes us home. </p>
+<p>Some food, some clothing, and the treasure of Jesus Christ. What else do we need?</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord Jesus, you are my treasure. You are my life. Forgive my sins of dissatisfaction. Fill me to the brim with contentment. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191026%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191026dev.mp3" length="4317475" type="audio/mpeg" />
+	<itunes:subtitle>We don’t know the treasure we already possess...</itunes:subtitle>
+		<itunes:summary>We don’t know the treasure we already possess...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:30</itunes:duration>
+		</item>
+	<item>
+		<title>An Amazing Message &#8211; October 25, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191025/</link>
+		<pubDate>Fri, 25 Oct 2019 06:00:39 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=23942</guid>
+		<comments>https://wels.net/dev-daily/dd20191025/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191025/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;you can look forward to an eternity of peace and joy...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-FridayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>&#8220;Abraham replied, &#8216;They have Moses and the Prophets.’&#8221;<br />
+<strong>Luke 16:29</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>An Amazing Message</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191025dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 25, 2019</b></div>
+<p>Devotion based on Luke 16:29<br />
+<audio class="wp-audio-shortcode" id="audio-23942-10" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191025dev.mp3?_=10" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191025dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191025dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>Richard was homeless. He would stand on the side of the street holding a sign that said: &#8220;Laid off 2 long, anything helps.&#8221; One day, a woman named Kenyada stopped to talk with Richard. He told her that he lost his job and would just like enough money to get his phone turned back on so places he had applied for a job would have a way of reaching him. Kenyada drove him to the store and paid his cell phone bill for the next two months. When Richard&#8217;s phone was charged and turned on, he saw that he had a message. It was a job offer. It was a wonderful day for Richard. And the message that made it so wonderful was there the whole time, just waiting for him to discover it.</p>
+<p>In the story Jesus told about a rich man who went to hell and a poor man who went to heaven, Abraham told the rich man where his still-living brothers could find an amazing message—the message of God&#8217;s love for them and his will for their lives. It was a message that would tell them how they could avoid ending up in the terrible eternity their brother was experiencing. The message could be found in the words of the Bible.</p>
+<p>The poor man in Jesus&#8217; story knew all about that message. Although his life had been filled with suffering and pain, the Bible told him that his Lord promised him an eternal life without any suffering or pain. And that is precisely what the Lord gave him when his life ended.</p>
+<p>The Bible has the same message for you. Through faith in Jesus—the one who delivered you from your sins and promises you heaven—you can look forward to an eternity of peace and joy. If you ever find yourself doubting it, go back to the Bible and read his promises once again. The message of his love and forgiveness is always ready and waiting for you there.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Father in heaven, thank you for all that you have graciously given me through Jesus. Give me a faith that trusts all that you tell me about him in your word. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191025%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191025dev.mp3" length="4976937" type="audio/mpeg" />
+	<itunes:subtitle>you can look forward to an eternity of peace and joy...</itunes:subtitle>
+		<itunes:summary>you can look forward to an eternity of peace and joy...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:51</itunes:duration>
+		</item>
+	<item>
+		<title>Repent &#8211; October 24, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191024/</link>
+		<pubDate>Thu, 24 Oct 2019 06:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=23941</guid>
+		<comments>https://wels.net/dev-daily/dd20191024/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191024/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;But repentance means more than turning away from our sins...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-ThursdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>&#8220;Abraham replied, &#8216;They have Moses and the Prophets; let them listen to them.&#8217; &#8220;No, Father Abraham, he said, but if someone from the dead goes to them, they will repent.&#8221;<br />
+<strong>Luke 16:29,30</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Repent</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191024dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 24, 2019</b></div>
+<p>Devotion based on Luke 16:29,30<br />
+<audio class="wp-audio-shortcode" id="audio-23941-11" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191024dev.mp3?_=11" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191024dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191024dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>There is a place in Mexico called the Crystal Cave. It&#8217;s an underground cave that has crystals that are up to thirty-six feet long and worth up to twenty-one thousand dollars per pound. This means that this cave is worth more than most countries in the world today. It&#8217;s a pretty valuable place. But there’s something you should know about the crystal cave before you decide to walk in. It&#8217;s one hundred thirty-six degrees Fahrenheit inside, which means you can die from the heat in as little as fifteen minutes. Once you see the cave, you can&#8217;t get too attached to it. You need to turn around and walk away before it&#8217;s too late.</p>
+<p>In a sense, that cave illustrates what it means to repent. To repent means to turn around and walk away from our sins. Just as it is vital to turn around and walk out of the Crystal Cave before it&#8217;s too late, it is vital that we turn and walk away from our sins before it&#8217;s too late.</p>
+<p>But repentance means more than turning away from our sins. It also means to turn toward our Savior. It means trusting that Jesus has done everything necessary to earn forgiveness for our sins. And it means relying on him for eternal life.  </p>
+<p>Sadly, the rich man in Jesus&#8217; story failed to repent before his life ended. May the same not be true for us. As we hear and read God’s Word in the Bible, may it help us to see our sins, turn from them, and trust in our Savior so that we might arrive one day in a paradise even more marvelous than a cave full of crystals. </p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord Jesus, I am sorry my heart so often craves earthly treasures that I know I will lose one day. Have mercy on me and help me to treasure the forgiveness you have already given me. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191024%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191024dev.mp3" length="4992825" type="audio/mpeg" />
+	<itunes:subtitle>But repentance means more than turning away from our sins...</itunes:subtitle>
+		<itunes:summary>But repentance means more than turning away from our sins...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:52</itunes:duration>
+		</item>
+	<item>
+		<title>God Is Paying Attention &#8211; October 23, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191023/</link>
+		<pubDate>Wed, 23 Oct 2019 06:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=23940</guid>
+		<comments>https://wels.net/dev-daily/dd20191023/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191023/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;Your loving God will not overlook you...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-WednesdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>&#8220;There was a rich man who was dressed in purple and fine linen and lived in luxury every day. At his gate was laid a beggar named Lazarus.&#8221;<br />
+<strong>Luke 16:19,20</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>God Is Paying Attention</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191023dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 23, 2019</b></div>
+<p>Devotion based on Luke 16:19,20<br />
+<audio class="wp-audio-shortcode" id="audio-23940-12" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191023dev.mp3?_=12" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191023dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191023dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>A teacher once gave her students the assignment of drawing a picture. &#8220;If you could be anything in the world,&#8221; she said, &#8220;what would you be?&#8221; As she was going through the pictures, she came across one that surprised her. One little boy had drawn a picture of a cell phone. She thought that was strange, so she called him to her desk and asked why he wanted to be a cell phone. &#8220;Because if I were a cell phone,&#8221; he said, &#8220;then my mommy and daddy would pay attention to me. They would hold me and talk to me, and they would even be excited if I accidentally interrupted them.&#8221; This little boy was feeling overlooked in his own home.</p>
+<p>The account of the rich man and Lazarus reminds us that God does not want his redeemed children to feel the same way. We find that reminder when we consider something we know about the beggar and something we don&#8217;t know about the rich man.</p>
+<p>We know the name of the beggar. His name was Lazarus.</p>
+<p>We are never told the name of the rich man. He is simply called the &#8220;rich man.&#8221; Jesus identified him by how the man chose to identify himself—by his earthly wealth.</p>
+<p>But Lazarus found his identity and comfort in something else. While his body was hurting on earth, his soul found rest in his loving God and in the promise that God would not overlook him when it came time to welcome his children home.</p>
+<p>Your loving God will not overlook you either. He knows you by name. He proved his love by the sacrifice of his Son for your sins. Because of this, you can trust that when your time in this world comes to an end, he will call you home to heaven.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Father in heaven, thank you for seeing my need for a Savior and for meeting that need. May my soul forever find rest in the assurance that you know me by name. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191023%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191023dev.mp3" length="4871671" type="audio/mpeg" />
+	<itunes:subtitle>Your loving God will not overlook you...</itunes:subtitle>
+		<itunes:summary>Your loving God will not overlook you...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:49</itunes:duration>
+		</item>
+	<item>
+		<title>God Cares &#8211; October 22, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191022/</link>
+		<pubDate>Tue, 22 Oct 2019 06:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=23939</guid>
+		<comments>https://wels.net/dev-daily/dd20191022/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191022/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;no matter how hidden your suffering might be, know that Jesus knows all about it...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-TuesdayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>(Jesus told his disciples), &#8220;There was a rich man who was dressed in purple and fine linen and lived in luxury every day. At his gate was laid a beggar named Lazarus, covered in sores and longing to eat what fell from the rich man&#8217;s table . . . The time came when the beggar died and the angels carried him to Abraham&#8217;s side. The rich man also died and was buried.&#8221;<br />
+<strong>Luke 16:19-22</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>God Cares</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191022dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 22, 2019</b></div>
+<p>Devotion based on Luke 16:19-22<br />
+<audio class="wp-audio-shortcode" id="audio-23939-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191022dev.mp3?_=13" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191022dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191022dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>Lazarus went to heaven after he died. But his life here was anything but heaven on earth. And everyone could see how much he was suffering. He was poor, hungry, and covered in sores. He was not a pretty sight.</p>
+<p>Are you suffering as you travel through this life? If you are, do the people around you know? Or, are your sufferings far less visible than those of Lazarus? When someone asks how you&#8217;re doing, do you say &#8220;fine&#8221; even when you&#8217;re not? Do you hope that’s enough to compel them to move on to their next conversation so that they never get the chance to hear how lonely you often feel; how guilty you feel about something you&#8217;ve done wrong; how busy you keep yourself so you don&#8217;t have time to think about parts of your life that are broken; or how strongly you believe that, if your life was as fully exposed in front of everyone, you wouldn&#8217;t blame anyone for running away in the other direction?</p>
+<p>Whatever you might be suffering, and no matter how hidden your suffering might be, know that Jesus knows all about it. And he does not run away from you. Instead, he points you to a cross where his sacrifice guaranteed that one day, like Lazarus, your soul will be carried to paradise.</p>
+<p>May the promise of paradise in the next life provide peace in the midst of suffering in this life.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Dear Jesus, you gave up so much, even your own life, to build paradise for me in heaven. Help me to be patient as I wait for the day my own eyes will see it. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191022%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191022dev.mp3" length="4728827" type="audio/mpeg" />
+	<itunes:subtitle>no matter how hidden your suffering might be, know that Jesus knows all about it...</itunes:subtitle>
+		<itunes:summary>no matter how hidden your suffering might be, know that Jesus knows all about it...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>2:43</itunes:duration>
+		</item>
+	<item>
+		<title>Live the Good Life &#8211; October 21, 2019</title>
+		<link>https://wels.net/dev-daily/dd20191021/</link>
+		<pubDate>Mon, 21 Oct 2019 06:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://wels.net/?post_type=dev-daily&#038;p=23938</guid>
+		<comments>https://wels.net/dev-daily/dd20191021/#respond</comments>
+		<wfw:commentRss>https://wels.net/dev-daily/dd20191021/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Daily Devotions]]></category>
+		<category><![CDATA[Devotions]]></category>
+		<category><![CDATA[daily-devotions]]></category>
+		<description>&lt;img width=&quot;80&quot; height=&quot;80&quot; src=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120@2x.jpg 240w&quot; sizes=&quot;(max-width: 80px) 100vw, 80px&quot; /&gt;Knowing and trusting in Jesus your Savior means you have everything...</description>
+		<content:encoded><![CDATA[<img width="80" height="80" src="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80.jpg 80w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36.jpg 36w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180.jpg 180w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120.jpg 120w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-450x450.jpg 450w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-80x80@2x.jpg 160w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-36x36@2x.jpg 72w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-180x180@2x.jpg 360w, http://wels.net/wp-content/uploads/2015/07/842x474-Custom-Post-MondayDevotion-120x120@2x.jpg 240w" sizes="(max-width: 80px) 100vw, 80px" /><blockquote><p>&#8220;There was a rich man who was dressed in purple and fine linen and lived in luxury every day. At his gate was laid a beggar named Lazarus, covered with sores and longing to eat what fell from the rich man&#8217;s table. Even the dogs came and licked his sores. &#8220;The time came when the beggar died and the angels carried him to Abraham&#8217;s side. The rich man also died and was buried. In Hades, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side. So he called to him, &#8216;Father Abraham, have pity on me and send Lazarus to dip the tip of his finger in water and cool my tongue, because I am in agony in this fire.&#8217; &#8220;But Abraham replied, &#8216;Son, remember that in your lifetime you received your good things, while Lazarus received bad things, but now he is comforted here and you are in agony.’&#8221;<br />
+<strong>Luke 16:19-25</strong></p></blockquote>
+<div  style='height:15px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<h3>Live the Good Life</h3>
+<div style="float: right; margin: 20px; min-width: 325px; padding: 20px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-radius: 5px;">
+<div style="color: #339900; text-transform: uppercase;" align="center"><a href="https://wels2.blob.core.windows.net/daily-devotions/20191021dev.mp3"><img style="padding-bottom: 10px; border: none;" src="http://wels.net/wp-content/uploads/2014/04/Audio-Icon.png" alt="" width="48" /></a><br />
+<b>Daily Devotion &#8211; October 21, 2019</b></div>
+<p>Devotion based on Luke 16:19-25<br />
+<audio class="wp-audio-shortcode" id="audio-23938-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://wels2.blob.core.windows.net/daily-devotions/20191021dev.mp3?_=14" /><a href="https://wels2.blob.core.windows.net/daily-devotions/20191021dev.mp3">https://wels2.blob.core.windows.net/daily-devotions/20191021dev.mp3</a></audio><br />
+<em>See series:</em> <a href="http://www.wels.net/serving-you/devotions/daily-devotions/">Devotions</a></p>
+</div>
+<p>A few years ago, a dog in China made headlines. His owner, the son of a Chinese billionaire, bought him eight brand-new, recently released cell phones. This means Coco&#8217;s owner spent about $9,500 to buy his dog cell phones she will never use. </p>
+<p>Coco is the kind of dog the rich man we read about in Luke 16 may have had. He wasn&#8217;t missing a whole lot of anything. He spared no expense and could get anything.</p>
+<p>Lazarus, on the other hand, had a constantly empty stomach, was dirt poor, was covered in sores and his best friends were the dogs who came to lick his wounds.</p>
+<p>Whose life would you rather have? You can only answer that question properly when you consider how each of their lives ended.</p>
+<p>Despite his great wealth on earth, the rich man ended up in &#8220;Hades, where he was in torment&#8221; and &#8220;agony.&#8221;</p>
+<p>But Lazarus was &#8220;comforted&#8221; after he died because perfect comfort in heaven is exactly what Jesus promises all who believe in him.</p>
+<p>During their lives on earth, it looked as though the rich man had everything and Lazarus had nothing. But, in reality, it was the other way around. Because Lazarus had a relationship with the true God, he had everything—including eternal life in heaven—while the rich man had nothing and spent his eternity separated from God and all of his blessings. </p>
+<p>Whether you are rich or poor in this life, knowing and trusting in Jesus your Savior means you have everything, including eternal life in heaven. May this encourage you to stay close to him here until you are with him in the hereafter.</p>
+<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+<blockquote><p><strong>Prayer:</strong><br />
+Lord Jesus, may my whole life always focus entirely on you and your love for me. Amen.<div  style='height:25px' class='hr hr-invisible  '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div></p></blockquote>
+<div class="avia_textblock avia_textblock_style" data-update_with="content">
+<div style="font-size: 90%; color: #999999;"><em>Daily<em><img style="padding-right: 20px;" src="https://licensebuttons.net/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" align="left" border="0" /></em> Devotions are brought to you by WELS and <a title="WhatAboutJesus.com" href="http://whataboutjesus.com/">www.WhatAboutJesus.com.</a></em></div>
+<div style="font-size: 90%; color: #999999;"><a title="Creative Commons" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="_blank" rel="noopener"><em>This work is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.</em></a></div>
+<div style="font-size: 90%; color: #999999;"><em>All Scripture quotations, unless otherwise indicated, are taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc. <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Used by permission of Zondervan. All rights reserved worldwide.</em></div>
+</div>
+
+<div class="printfriendly pf-alignright"><a href="https://www.printfriendly.com/print?headerImageUrl=&amp;headerTagline=&amp;pfCustomCSS=&amp;imageDisplayStyle=right&amp;disableClickToDel=0.&amp;disablePDF=0&amp;disablePrint=0&amp;disableEmail=0&amp;imagesSize=full-size&amp;url=https%3A%2F%2Fwels.net%2Fdev-daily%2Fdd20191021%2F&amp;source=wp" style="outline:none;" rel="nofollow"  class="noslimstat" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; box-shadow:none;" src="https://cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-notext.png" alt="Print Friendly, PDF & Email" /></a></div>
+]]></content:encoded>
+				<enclosure url="https://wels2.blob.core.windows.net/daily-devotions/20191021dev.mp3" length="5857637" type="audio/mpeg" />
+	<itunes:subtitle>Knowing and trusting in Jesus your Savior means you have everything...</itunes:subtitle>
+		<itunes:summary>Knowing and trusting in Jesus your Savior means you have everything...</itunes:summary>
+		<itunes:author>PT Devotion</itunes:author>
+		<itunes:image href="https://wels.net/wp-content/uploads/powerpress/iTunes-3000x3000-WELS-119kb-226.jpg" />
+		<itunes:duration>3:24</itunes:duration>
+		</item>
+</channel>
+</rss>

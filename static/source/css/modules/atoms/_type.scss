@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+/**
+ * Global type styles
+ */
+
+a {
+  text-decoration: none;
+
+  &:visited {
+  }
+}
+
+p {
+  font: normal 1em/1.8 $body;
+
+  & + p {
+    margin-top: 1em;
+  }
+}
+
+h1.title {
+  font: normal 100 em(67.34)/1 $heading;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+
+  @include phone () {
+    font-size: 1.999em;
+  }
+}
+
+h2.subtitle {
+  font: normal 700 em(28.43)/1.4 $heading;
+  margin-top: 0;
+  margin-bottom: 1em;
+
+  @include phone () {
+    font-size: 1em;
+  }
+
+}
+
+h1 {
+  font: normal 700 em(50.52)/1.2 $heading;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font: normal 400 em(37.9)/1.2 $heading;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font: normal 400 em(28.43)/1.2 $heading;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  font: normal 700 em(21.33)/1.2 $heading;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h5 {
+  font: normal 400 em(21.33)/1.2 $heading;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h6 {
+  font: normal 700 em(16)/1.2 $heading;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+// Alterations
+small {
+  font: normal em(12)/1.4 $body;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+.cmsArticle {
+  padding-bottom: 4em;
+}
+
+.cmsArticle li {
+  font: normal 1em/1.8 $body;
+}
+
+// Special
+.hidden-text {
+  text-indent: -9999px;
+  height: 0;
+  width: 0;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.section-title {
+  margin-top: 1rem;
+}

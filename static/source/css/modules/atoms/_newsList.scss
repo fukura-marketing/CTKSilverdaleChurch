@@ -1,0 +1,31 @@
+.news_list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  &-item {
+    margin-bottom: 1em;
+
+    &-target {
+      display: flex;
+    }
+
+    &-image {
+      width: 200px;
+    }
+
+    &-content {
+      padding: 1em;
+
+      & h3 {
+        font: normal em(22.62)/1.2 $heading;
+        margin: 0;
+      }
+
+      & p {
+        margin: 0;
+      }
+    }
+
+  }
+}

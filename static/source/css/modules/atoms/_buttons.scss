@@ -1,0 +1,96 @@
+.btn {
+  border: 2px solid;
+  border-radius: 4px;
+  font: normal 500 1rem/1 $body;
+  padding: 0.5em;
+  vertical-align: middle;
+  margin-bottom: 0.5rem;
+  margin-right: 0.5rem;
+  text-decoration: none;
+  display: inline-block;
+  @include shadow(#000, 0.7, 10);
+  transition: all 0.25s cubic-bezier(0.14,0.76,0.54,0.95);
+  text-align: left;
+
+  @include phone () {
+
+    &+.btn {
+      margin-top: 1em;
+    }
+  }
+
+  &::after {
+    font-family: "Black Tie", sans-serif;
+    font-weight: 500;
+    vertical-align: middle;
+    padding-left: 2em;
+
+    @include phone () {
+      //right: 0.75em;
+      float: right;
+    }
+  }
+
+  &:hover, &:focus {
+    @include shadow(#000, 0.7, 20);
+  }
+
+  //&.mod-blue {
+  //  background: $ui-link;
+  //  border-color: $ui-link;
+  //  color: #ffffff;
+  //
+  //  &:hover, &:focus {
+  //    background: $ui-link-lt;
+  //    border-color: $ui-link-lt;
+  //  }
+  //
+  //  &.mod-ghost {
+  //    border: 2px solid;
+  //    color: $ui-link;
+  //
+  //    &:hover, &:focus {
+  //      background: $ui-link-lt;
+  //      border-color: $ui-link-lt;
+  //      color: #ffffff;
+  //    }
+  //  }
+  //}
+  //
+  &.mod-white {
+    color: $ui-link;
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+
+    &:hover, &:focus {
+      background: $ui-link;
+      border-color: $ui-link;
+      color: #ffffff;
+    }
+
+    &.mod-ghost {
+      border: 2px solid;
+      color: #ffffff;
+
+      &:hover, &:focus {
+        background: #FFFFFF;
+        color: $ui-link;
+        border-color: #FFFFFF;
+      }
+    }
+  }
+
+  &.mod-ghost {
+    background-color: transparent;
+    box-shadow: none;
+  }
+
+  &.mod-arrow::after { content: "\f09B"; }
+  &.mod-download::after { content: "\f042"; }
+  &.mod-play::after { content: "\f079"; }
+  &.mod-send::after { content: "\f076"; }
+  &.mod-offsite::after { content: "\f05B"; }
+  &.mod-chat::after { content: "\f008"; }
+
+}
+

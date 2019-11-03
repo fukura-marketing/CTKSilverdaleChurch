@@ -1,0 +1,51 @@
+.eventsList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  &-item {
+    display: flex;
+    margin: 0.25em 0 0.5em;
+
+    &-date {
+      width: 55px;
+      min-height: 55px;
+      padding: 5px;
+      color: #FFFFFF;
+      background: $teal;
+      flex-shrink: 0;
+
+      & .date {
+        font: normal 700 em(22.62)/1 $body;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+
+        &.mod-end {
+          font-size: 0.7em;
+          display: block;
+          padding-left: 0.25em;
+          white-space: nowrap;
+          color: $gray-3;
+        }
+      }
+      & .month {
+        font: normal 700 em(12.8)/1 $body;
+      }
+    }
+
+    &-detail {
+      padding: 5px 5px 5px 10px;
+
+      & .summary {
+        margin: 0;
+        line-height: 1;
+      }
+      & .time {
+        font-size: 0.75em;
+        color: $gray-1;
+      }
+    }
+  }
+}

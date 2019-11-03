@@ -1,0 +1,11 @@
+.classroom_updates {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  &-item {
+    & .post_title {
+      margin-bottom: 0;
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{# TODO: Fill out the home theme #}
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <header class="marquee mod-home">
+{#    <section class="marquee mod-home" style="background-image:url({{ file_base }}{{ page_content['marquee_image']['data']['url'] }});">#}
+        <div class="marquee-contents container">
+            <div class="col-sm-11">
+                <h1 class="title">{{ dat['page_title'] }}</h1>
+                <h2 class="subtitle">{{ dat['page_subtitle'] }}</h2>
+                <blockquote class="verseOfDay">
+                    {{ VOTD|safe }}
+                </blockquote>
+            </div>
+        </div>
+    </header>
+{#    <section class="event_banner">#}
+{#        <div class="container event_banner-contents">#}
+{#            <div class="event_banner-contents-header col-sm-3">#}
+{#                <h2>Next Event</h2>#}
+{#            </div>#}
+{#            <div class="event_banner-contents-body col-sm-6">#}
+{#                <h3>{{ EVENTSLIST_SHORT[0]['summary'] }}</h3>#}
+{#                {% if 'dateTime' in EVENTSLIST_SHORT[0]['start'] %}#}
+{#                    <p>{{ (EVENTSLIST_SHORT[0]['start']['dateTime']|strftime)['dateblock'] }}, {{ (EVENTSLIST_SHORT[0]['start']['dateTime']|strftime)['yblock'] }} &middot; {{ (EVENTSLIST_SHORT[0]['start']['dateTime']|strftime)['timeblock'] }}</p>#}
+{#                {% else %}#}
+{#                    <p>All Day</p>#}
+{#                {% endif %}#}
+{#            </div>#}
+{#            <div class="event_banner-contents-cta col-sm-3">#}
+{#                <a href="{{ url_for('primary.events') }}" class="btn mod-white">More events</a>#}
+{#            </div>#}
+{#        </div>#}
+{#    </section>#}
+    <section class="container">
+        <div class="col-sm-8 col-md-7 col-md-push-1">
+            <h2 class="section-title">Latest News</h2>
+            <ul class="news_list">
+        {% for item in news %}
+            <li class="news_list-item">
+                <a href="{{ item['section']|lower }}/news/{{ item['slug'] }}" class="news_list-item-target">
+                    <div class="news_list-item-image">
+                        <img class="blockList-item-image" src="{{ item['primary_image']['data']['thumbnails'][1]['url'] }}" alt="{{ item['title'] }}">
+                    </div>
+                    <div class="news_list-item-content">
+                        <small class="news_list-item-label">{{ item['section'] }}</small>
+                        <h3>{{ item['title'] }}</h3>
+                        <small class="news_list-item-published">
+                            {{ (item['publish_date']|strftime)['dateblock'] }},
+                            {{ (item['publish_date']|strftime)['yblock'] }}
+                        </small>
+                    </div>
+                </a>
+            </li>
+        {% endfor %}
+        </ul>
+        </div>
+        <div class="col-sm-4 col-md-push-1">
+            <div class="article-aside mod-overlap">
+                <h4 class="subheadline">Worship Times</h4>
+                <ul class="metalist">
+                    {% for time in ACCOUNT['worship_times'] %}
+                        <li class="metalist-item"><strong>{{ time['day'] }}</strong> {{ time['time'] }}</li>
+                    {% endfor %}
+                </ul>
+                <h4 class="subheadline">Contact</h4>
+                <p>
+                    {{ ACCOUNT['church_name'] }}<br>
+                    {{ ACCOUNT['street_address'] }}<br>
+                    {{ ACCOUNT['city'] }}, {{ ACCOUNT['region'] }} {{ ACCOUNT['postal_code'] }}<br><br>
+                    {{ ACCOUNT['phone_number'] }}<br>
+                    {{ ACCOUNT['email_address'] }}
+                </p>
+            </div>
+        </div>
+    </section>
+{% endblock %}
+
+{% block script_include %}
+{% endblock %}
