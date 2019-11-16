@@ -11,27 +11,7 @@
     <section class="container">
         <div class="col-sm-8">
             <div class="col-sm-12 row">
-                <ul class="classroom_updates">
-                    {% for post in updates %}
-                        <li class="classroom_updates-item">
-                            <h2 class="post_title">{{ post['title'] }}</h2>
-                            <small>{{ (post['date_published']|strftime).dateblock }}</small>
-                            <span>{{ post['content']|safe }}</span>
-                            {% if post['attachments'] %}
-                                <h4>Attachments</h4>
-                                <ul class="attachments">
-                                {% for attachment in post['attachments'] %}
-                                    <li class="attachments-item">
-                                        <a href="{{ attachment['directus_files_id']['data']['full_url'] }}"
-                                           target="_blank"
-                                           class="attachments-item-target">{{ attachment['directus_files_id']['title'] }}</a>
-                                    </li>
-                                {% endfor %}
-                                </ul>
-                            {% endif %}
-                        </li>
-                    {% endfor %}
-                </ul>
+                {% include "atoms/teacher_posts.html" %}
             </div>
         </div>
         <div class="col-sm-4">
@@ -39,8 +19,12 @@
                 <img src="{{ _data['staff_member']['avatar']['data']['full_url'] }}"
                      alt="{{ _data['staff_member']['first_name'] }} {{ _data['staff_member']['last_name'] }}"
                      width="80" class="sidebar_bio-image">
-                <a href="mailto:{{ _data['staff_member']['email'] }}"
-                   class="sidebar_bio-email">{{ _data['staff_member']['email'] }}</a>
+                <div>
+                    <p class="sidebar_bio-name">{{ _data['staff_member']['first_name'] }} {{ _data['staff_member']['last_name'] }}</p>
+                    <a href="mailto:{{ _data['staff_member']['email'] }}"
+                       class="sidebar_bio-email">{{ _data['staff_member']['email'] }}</a>
+                </div>
+
             </div>
             {% if _data['sidebar_links'] %}
             <div class="sidebar_links">

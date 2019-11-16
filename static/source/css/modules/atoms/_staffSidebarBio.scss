@@ -1,0 +1,17 @@
+.sidebar_bio {
+  display: flex;
+  margin-top: 2em;
+  align-items: center;
+
+  & div {
+    padding-left: 10px;
+  }
+  &-image {
+    width: 33%;
+  }
+  &-name {
+    margin: 0;
+    font-weight: bold;
+  }
+
+}

@@ -14,7 +14,8 @@
   "author": "Jason Fukura <jason.fukura@criticalinformatics.com>",
   "license": "NONE",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.12.0",
+    "lodash.template": ">=4.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",

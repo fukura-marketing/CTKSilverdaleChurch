@@ -4,6 +4,10 @@
   margin: 0;
 
   &-item {
+    padding-bottom: 9em;
+    margin-bottom: 3em;
+    border-bottom: 1px solid $gray-3;
+
     & .post_title {
       margin-bottom: 0;
     }
