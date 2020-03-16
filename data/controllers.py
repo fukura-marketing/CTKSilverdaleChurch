@@ -34,9 +34,9 @@ def _jinja2_filter_datetime(date):
     native = date.replace(tzinfo=None)
     month = native.strftime('%b')
     date = native.strftime('%d')
-    dblock = native.strftime('%B %-d')
+    dblock = native.strftime('%B %d')
     yblock = native.strftime('%Y')
-    timeblock = native.strftime('%-I:%M %p')
+    timeblock = native.strftime('%I:%M %p')
     hour = native.strftime('%H')
     minute = native.strftime('%M')
     return {'dateblock': dblock, 'yblock': yblock, 'month': month, 'date': date,

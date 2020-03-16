@@ -53,7 +53,7 @@ def school_cms_page(slug):
         "title": _data['meta_title'],
         "description": _data['meta_description']
     }
-    return render_template('layouts/page_school_standard.html', **locals())
+    return render_template('layouts/page_standard.html', **locals())
 
 
 @school.route('/staff')
@@ -129,5 +129,5 @@ def school_news_article(slug):
         "title": _data['title']
     }
 
-    return render_template('layouts/page_church_standard.html', **locals())
+    return render_template('layouts/page_standard.html', **locals())
 
