@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <section class="marquee mod-home" style="background-image: url({{ _data['primary_image']['data']['full_url'] or '' }})">
+        <div class="marquee-contents container">
+            <h1 class="title col-sm-11">{{ _data['title'] }}</h1>
+            <h2 class="subtitle col-sm-11">{{ _data['page_subtitle'] or '' }}</h2>
+        </div>
+    </section>
+    <section class="container">
+        <div class="col-sm-8 col-lg-9">
+            {{ _data['content']|safe }}
+        </div>
+        {% include 'atoms/module_sidebar_standard.html' with context %}
+    </section>
+{% endblock %}

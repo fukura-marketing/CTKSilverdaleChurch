@@ -129,5 +129,5 @@ def school_news_article(slug):
         "title": _data['title']
     }
 
-    return render_template('layouts/page_standard.html', **locals())
+    return render_template('layouts/page_news_article.html', **locals())
 
