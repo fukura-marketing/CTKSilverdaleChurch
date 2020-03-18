@@ -326,7 +326,7 @@ DROP TABLE IF EXISTS `directus_collection_presets`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `directus_collection_presets` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
-  `title` varchar(255) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `title` varchar(255) CHARACTER SET utf8 DEFAULT NULL,
   `user` int(11) unsigned DEFAULT NULL,
   `role` int(11) unsigned DEFAULT NULL,
   `collection` varchar(64) NOT NULL,
@@ -470,7 +470,7 @@ DROP TABLE IF EXISTS `directus_folders`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `directus_folders` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
-  `name` varchar(191) CHARACTER SET utf8mb4 NOT NULL,
+  `name` varchar(191) CHARACTER SET utf8 NOT NULL,
   `parent_folder` int(11) unsigned DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `idx_name_parent_folder` (`name`,`parent_folder`)
