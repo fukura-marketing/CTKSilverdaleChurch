@@ -48,7 +48,10 @@ def school_cms_page(slug):
     """
     :return:
     """
+
     _data = cms.read_page_by_slug(section='school', slug=slug)[0]
+    _events = calendar.get_events(1)
+
     _meta = {
         "title": _data['meta_title'],
         "description": _data['meta_description']
@@ -65,6 +68,9 @@ def school_staff_all():
     :return:
     """
     _data = cms.read_people('school')
+    _events = calendar.get_events(1)
+
+    _events = calendar.get_events(1)
     _meta = {
         "title": "School Staff",
         "description": ""
@@ -82,6 +88,7 @@ def school_staff(staff):
     :return:
     """
     _data = cms.read_staff_page(staff)['data'][0]
+
     updates = cms.read_staff_updates(staff)['data']
     _meta = {
         "title": _data['page_title'],
@@ -113,6 +120,8 @@ def school_news():
     :return:
     """
     _data = cms.read_news_index(section='school')
+    _events = calendar.get_events(1)
+
     _meta = {
         "title": 'NEWS'
     }

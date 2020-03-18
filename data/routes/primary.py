@@ -18,6 +18,7 @@ def home():
 
     :return:
     """
+    # acct = cms.read_account()
     news = cms.read_all_news()
     dat = cms.read_index()
     page_title = dat['page_title']

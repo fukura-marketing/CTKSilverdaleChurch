@@ -55,6 +55,7 @@ def church_cms_page(slug):
     :return:
     """
     _data = cms.read_page_by_slug(section='church', slug=slug)[0]
+    _events = calendar.get_events(1)
     _meta = {
         "title":_data['meta_title'],
         "description":_data['meta_description']
@@ -69,6 +70,8 @@ def church_news():
     :return:
     """
     _data = cms.read_news_index(section='church')
+    _events = calendar.get_events(1)
+
     _meta = {
         "title": 'News Updates'
     }

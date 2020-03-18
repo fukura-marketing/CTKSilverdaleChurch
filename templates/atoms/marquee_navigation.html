@@ -1,6 +1,6 @@
 <div class="marquee-contents-nav">
     {% for item in nav.top %}
-        {% if item.is_current %}
+        {% if '/' + url_for(request.endpoint).split('/')[1] + '/' == item.url %}
             <h3>{{ item.label }}</h3>
             {% if item.items %}
                 <ul class="marquee-nav">

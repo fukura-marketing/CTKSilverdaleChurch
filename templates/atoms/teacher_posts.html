@@ -1,4 +1,5 @@
 <ul class="classroom_updates">
+{% if updates %}
     {% for post in updates %}
         <li class="classroom_updates-item">
             <h2 class="post_title">{{ post['title'] }}</h2>
@@ -18,4 +19,9 @@
             {% endif %}
         </li>
     {% endfor %}
+{% else %}
+    <li class="classroom_updates-item">
+        <h2 class="post_title">No posts yet, check back soon.</h2>
+    </li>
+{% endif %}
 </ul>
