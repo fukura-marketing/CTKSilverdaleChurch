@@ -29,7 +29,9 @@
       }
     }
     &-body {
-
+      @include phone () {
+        width: 100%;
+      }
       & h3 {
         font: normal 700 em(22.62)/1 $heading;
         margin: 0;
@@ -40,7 +42,9 @@
     }
     &-cta {
       text-align: right;
-
+      @include phone() {
+        margin-top: 20px;
+      }
       & .btn {
         background: #FFFFFF;
         color: $ui-link;

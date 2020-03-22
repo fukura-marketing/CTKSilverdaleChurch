@@ -9,12 +9,22 @@
             <div class="col-sm-11">
                 <h1 class="title">{{ dat['page_title'] }}</h1>
                 <h2 class="subtitle">{{ dat['page_subtitle'] }}</h2>
-                <a href="https://livestream.com/christtheking" target="_blank" class="btn mod-white"><i class="btr bt-play"></i> Go to our livestream channel</a>
                 <blockquote class="verseOfDay">
                     {{ VOTD|safe }}
                 </blockquote>
             </div>
         </div>
+        <section class="event_banner">
+            <div class="container event_banner-contents">
+                <div class="event_banner-contents-body col-sm-9">
+                    <small>Streaming Channel</small>
+                    <h3>Bookmark us on Livestream</h3>
+                </div>
+                <div class="event_banner-contents-cta col-sm-3">
+                    <a href="https://livestream.com/christtheking" target="_blank" class="btn mod-white">Go to our channel</a>
+                </div>
+            </div>
+        </section>
     </header>
 {#    <section class="event_banner">#}
 {#        <div class="container event_banner-contents">#}
