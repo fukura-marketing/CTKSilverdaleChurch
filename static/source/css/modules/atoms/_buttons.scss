@@ -35,6 +35,17 @@
     @include shadow(#000, 0.7, 20);
   }
 
+  &.mod-livestream {
+    background: $ui-link;
+    @include shadow(#000, 0.7, 10);
+    color: #ffffff;
+    border: none;
+
+    &:hover, &:focus {
+      background: #ffffff;
+      color: $ui-link;
+    }
+  }
   //&.mod-blue {
   //  background: $ui-link;
   //  border-color: $ui-link;

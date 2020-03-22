@@ -3,7 +3,7 @@
         <h2 class="featuredNews-title col-sm-12">Featured News</h2>
         <ul class="blockList col-sm-12 row mod-flex">
             {% for featured in _data['featured_news'] %}
-                <li class="blockList-item" style="width: 50%;">
+                <li class="blockList-item">
                     <a class="blockList-item-target" href="{{ url_for(request.endpoint) | replace("/", "") }}/news/{{ featured['slug'] }}">
                         <img class="blockList-item-image"
                              src="{{ featured['primary_image']['data']['thumbnails'][4]['url'] }}" alt="{{ featured['title'] }}"

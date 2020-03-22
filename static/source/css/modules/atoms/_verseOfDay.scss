@@ -4,5 +4,9 @@
 
   & p {
     font: normal em(22.62)/1.4 $body;
+
+    @include phone() {
+      font-size:em(16);
+    }
   }
 }

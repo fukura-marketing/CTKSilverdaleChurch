@@ -93,8 +93,8 @@ nav.Bar('top', [
              items=church_pages),
     nav.Item('School', 'school.home',
              items=school_pages),
-    nav.Item('Daily Devotion', 'primary.devotion'),
-    nav.Item('Contact Us', 'primary.contact')
+    nav.Item('Devotion', 'primary.devotion'),
+    nav.Item('Contact', 'primary.contact')
 ])
 
 

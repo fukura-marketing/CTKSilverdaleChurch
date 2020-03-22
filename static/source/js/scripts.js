@@ -75,17 +75,22 @@ if ( window.innerWidth <= 768 ) {
 
         nav.addEventListener( 'click', ( e ) => {
 
-            e.preventDefault();
+            if ( e.target.nextElementSibling ) {
 
-            topnav.forEach( ( siblingnav ) => {
+                e.preventDefault();
 
-                siblingnav.classList.remove( 'is-active' );
+                topnav.forEach( ( siblingnav ) => {
 
-            } );
+                    siblingnav.classList.remove( 'is-active' );
 
-            nav.classList.add( 'is-active' );
-            container.style.height = `${list.getBoundingClientRect().height}px`;
-            return false;
+                } );
+
+                nav.classList.add( 'is-active' );
+                // container.style.height = `${list.getBoundingClientRect().height}px`;
+                return false;
+
+            }
+
 
         } );
 

@@ -6,6 +6,9 @@
   position: relative;
   overflow: hidden;
 
+  @include phone() {
+    padding-top: 12em;
+  }
   &.mod-home {
     padding-bottom: 4em;
   }
@@ -34,6 +37,9 @@
       padding: 0 2.5em 0 0;
       margin-right: 2em;
       border-right: 1px solid transparentize(#FFFFFF, 0.8);
+      @include phone () {
+        font-size: 0.875rem;
+      }
 
       & h3 {
         margin: 0.5rem 0;
