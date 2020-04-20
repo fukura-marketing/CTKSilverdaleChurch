@@ -76,7 +76,7 @@
   }
   &.mod-devotion { background-image: url('/static/img/backgrounds/bible_background_@1200.jpg') }
   &.mod-home { background-image: url('/static/img/backgrounds/cross_background_@1200.jpg') }
-  &.mod-cross { background-image: url('/static/img/backgrounds/single_cross_background_@1200.jpg') }
+  &.mod-cross { background-image: url('/static/img/backgrounds/') }
   &.mod-school { background-image: url('/static/img/backgrounds/school_background_@1200.jpg') }
 
   @include phone() {

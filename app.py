@@ -79,13 +79,13 @@ school_pages = [
     nav.Item('News', 'school.school_news')
 ]
 
-# for page in cms_pages['church_pages']:
-#     church_pages.append(nav.Item(page['meta_title'], 'church.church_cms_page',
-#                                  {'slug': page['slug']}))
-#
-# for page in cms_pages['school_pages']:
-#     school_pages.append(nav.Item(page['meta_title'], 'school.school_cms_page',
-#                                  {'slug': page['slug']}))
+for page in cms_pages['church_pages']:
+    church_pages.append(nav.Item(page['meta_title'], 'church.church_cms_page',
+                                 {'slug': page['slug']}))
+
+for page in cms_pages['school_pages']:
+    school_pages.append(nav.Item(page['meta_title'], 'school.school_cms_page',
+                                 {'slug': page['slug']}))
 
 nav.Bar('top', [
     nav.Item('Home', 'primary.home'),
