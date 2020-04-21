@@ -51,7 +51,7 @@ def school_cms_page(slug):
 
     _data = cms.read_page_by_slug(section='school', slug=slug)[0]
     _events = calendar.get_events(1)
-
+    _context = 'school'
     _meta = {
         "title": _data['meta_title'],
         "description": _data['meta_description']
