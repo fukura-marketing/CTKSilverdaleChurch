@@ -60,42 +60,41 @@ app.register_blueprint(data.routes.school.school, url_prefix="/school")
 #         yield 'resources.news_article', {'article_slug': item['slug']}, \
 #               item['updated'], 'monthly', '0.8'
 
+@app.before_first_request
+def create_context():
+    nav = Navigation(app)
 
+    cms_pages = cms.read_navigation()
 
+    church_pages = [
+        nav.Item('Home', 'church.home'),
+        nav.Item('Events', 'church.events'),
+        nav.Item('News', 'church.church_news')
+    ]
+    school_pages = [
+        nav.Item('Home', 'school.home'),
+        nav.Item('Events', 'school.events'),
+        nav.Item('Staff', 'school.school_staff_all'),
+        nav.Item('News', 'school.school_news')
+    ]
 
-# Let's do some navigational work
-nav = Navigation(app)
+    for page in cms_pages['church_pages']:
+        church_pages.append(nav.Item(page['meta_title'], 'church.church_cms_page',
+                                     {'slug': page['slug']}))
 
-cms_pages = cms.read_navigation()
-church_pages = [
-    nav.Item('Home', 'church.home'),
-    nav.Item('Events', 'church.events'),
-    nav.Item('News', 'church.church_news')
-]
-school_pages = [
-    nav.Item('Home', 'school.home'),
-    nav.Item('Events', 'school.events'),
-    nav.Item('Staff', 'school.school_staff_all'),
-    nav.Item('News', 'school.school_news')
-]
+    for page in cms_pages['school_pages']:
+        school_pages.append(nav.Item(page['meta_title'], 'school.school_cms_page',
+                                     {'slug': page['slug']}))
 
-for page in cms_pages['church_pages']:
-    church_pages.append(nav.Item(page['meta_title'], 'church.church_cms_page',
-                                 {'slug': page['slug']}))
-
-for page in cms_pages['school_pages']:
-    school_pages.append(nav.Item(page['meta_title'], 'school.school_cms_page',
-                                 {'slug': page['slug']}))
-
-nav.Bar('top', [
-    nav.Item('Home', 'primary.home'),
-    nav.Item('Church', 'church.home',
-             items=church_pages),
-    nav.Item('School', 'school.home',
-             items=school_pages),
-    nav.Item('Devotion', 'primary.devotion'),
-    nav.Item('Contact', 'primary.contact')
-])
+    nav.Bar('top', [
+        nav.Item('Home', 'primary.home'),
+        nav.Item('Church', 'church.home',
+                 items=church_pages),
+        nav.Item('School', 'school.home',
+                 items=school_pages),
+        nav.Item('Devotion', 'primary.devotion'),
+        nav.Item('Contact', 'primary.contact')
+    ])
 
 
 if __name__ == '__main__':
