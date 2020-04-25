@@ -12,6 +12,8 @@ coloredlogs.install(level='DEBUG')
 app = Flask(__name__)
 Compress(app)
 
+nav = Navigation(app)
+
 ext = Sitemap(app)
 cms = data.cms.CMSRequest()
 rss = data.models.RSSRequest()
@@ -60,9 +62,8 @@ app.register_blueprint(data.routes.school.school, url_prefix="/school")
 #         yield 'resources.news_article', {'article_slug': item['slug']}, \
 #               item['updated'], 'monthly', '0.8'
 
-@app.before_first_request
+@app.before_request
 def create_context():
-    nav = Navigation(app)
 
     cms_pages = cms.read_navigation()
 
