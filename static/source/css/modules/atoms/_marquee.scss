@@ -76,13 +76,13 @@
   }
   &.mod-devotion { background-image: url('/static/img/backgrounds/bible_background_@1200.jpg') }
   &.mod-home { background-image: url('/static/img/backgrounds/cross_background_@1200.jpg') }
-  &.mod-cross { background-image: url('/static/img/backgrounds/') }
+  &.mod-church { background-image: url('/static/img/backgrounds/') }
   &.mod-school { background-image: url('/static/img/backgrounds/school_background_@1200.jpg') }
 
   @include phone() {
     &.mod-devotion { background-image: url('/static/img/backgrounds/bible_background_@768.jpg') }
     &.mod-home { background-image: url('/static/img/backgrounds/cross_background_@768.jpg') }
-    &.mod-cross { background-image: url('/static/img/backgrounds/single_cross_background_@768.jpg') }
+    &.mod-church { background-image: url('/static/img/backgrounds/single_cross_background_@768.jpg') }
     &.mod-school { background-image: url('/static/img/backgrounds/school_background_@768.jpg') }
 
   }
@@ -90,14 +90,14 @@
   @include hd() {
     &.mod-devotion { background-image: url('/static/img/backgrounds/bible_background_@1920.jpg') }
     &.mod-home { background-image: url('/static/img/backgrounds/cross_background_@1920.jpg') }
-    &.mod-cross { background-image: url('/static/img/backgrounds/single_cross_background_@1920.jpg') }
+    &.mod-church { background-image: url('/static/img/backgrounds/single_cross_background_@1920.jpg') }
     &.mod-school { background-image: url('/static/img/backgrounds/school_background_@1920.jpg') }
   }
 
   @include tablet() {
     &.mod-devotion { background-image: url('/static/img/backgrounds/bible_background_@1024.jpg') }
     &.mod-home { background-image: url('/static/img/backgrounds/cross_background_@1024.jpg') }
-    &.mod-cross { background-image: url('/static/img/backgrounds/single_cross_background_@1024.jpg') }
+    &.mod-church { background-image: url('/static/img/backgrounds/single_cross_background_@1024.jpg') }
     &.mod-school { background-image: url('/static/img/backgrounds/school_background_@1024.jpg') }
 
   }

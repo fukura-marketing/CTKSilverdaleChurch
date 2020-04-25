@@ -60,7 +60,7 @@ def church_cms_page(slug):
         "title":_data['meta_title'],
         "description":_data['meta_description']
     }
-    _context = 'cross'
+    _context = 'church'
 
     return render_template('layouts/page_standard.html', **locals())
 
