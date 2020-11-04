@@ -30,7 +30,7 @@
         {{ ACCOUNT['church_name'] }}<br>
         {{ ACCOUNT['street_address'] }}<br>
         {{ ACCOUNT['city'] }}, {{ ACCOUNT['region'] }} {{ ACCOUNT['postal_code'] }}<br><br>
-        {{ ACCOUNT['phone_number'] }}<br>
-        {{ ACCOUNT['email_address'] }}
+        {{ _data['contact_phone'] or ACCOUNT['phone_number'] }}<br>
+        {{ _data['contact_email'] or ACCOUNT['email_address'] }}
     </p>
 </aside>

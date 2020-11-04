@@ -29,8 +29,8 @@ def home():
     _events = calendar.get_events(5)
     _context = 'church'
     _meta = {
-        "title":_data['meta_title'],
-        "description":_data['meta_description']
+        "title": _data['meta_title'],
+        "description": _data['meta_description']
     }
 
     return render_template('layouts/page_home_church.html', **locals())
