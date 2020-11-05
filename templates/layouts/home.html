@@ -85,7 +85,14 @@
                     {{ ACCOUNT['street_address'] }}<br>
                     {{ ACCOUNT['city'] }}, {{ ACCOUNT['region'] }} {{ ACCOUNT['postal_code'] }}<br><br>
                     {{ ACCOUNT['phone_number'] }}<br>
-                    {{ ACCOUNT['email_address'] }}
+                    {% if ACCOUNT['email_address'].find(',') != -1  %}
+                        {% set accounts = ACCOUNT['email_address'].split(',') %}
+                        {% for account in accounts %}
+                            {{ account }}<br>
+                        {% endfor %}
+                    {% else %}
+                        {{ ACCOUNT['email_address'] }}
+                    {% endif %}
                 </p>
             </div>
         </div>
