@@ -9,6 +9,7 @@ Flask-Testing
 Flask-Resize
 Flask-Compress
 Flask-Caching
+gunicorn
 flask_sitemap
 flask_httpauth
 flask_sslify
