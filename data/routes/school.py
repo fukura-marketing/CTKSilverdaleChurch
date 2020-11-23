@@ -1,6 +1,6 @@
 from flask import Blueprint, render_template
 
-from config import CONST
+from config_app import CONST
 from data.cms import CMSRequest
 from data.models import EventsList
 

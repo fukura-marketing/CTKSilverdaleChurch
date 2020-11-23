@@ -4,7 +4,7 @@ from flask import Flask
 from flask_compress import Compress
 from flask_navigation import Navigation
 from flask_sitemap import Sitemap
-from config import CONST
+from config_app import CONST
 
 
 coloredlogs.install(level='DEBUG')

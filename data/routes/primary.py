@@ -3,7 +3,7 @@ from flask import Blueprint, render_template
 from data.cms import CMSRequest
 from data.controllers import cache
 from data.models import EventsList
-from config import CONST
+from config_app import CONST
 
 primary = Blueprint('primary', __name__)
 cms = CMSRequest()

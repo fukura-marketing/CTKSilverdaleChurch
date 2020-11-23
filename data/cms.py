@@ -2,7 +2,7 @@ import json
 
 import requests
 import datetime
-from config import CONST
+from config_app import CONST
 
 # In the future we will need this for teachers authenticating...but for now...
 # @staticmethod

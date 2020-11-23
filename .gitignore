@@ -1,6 +1,6 @@
 # Logs
 logs/
-config.py
+config_app.py
 
 # Scripts not to be included on the live server
 file_manager/scripts/generate_assets.py

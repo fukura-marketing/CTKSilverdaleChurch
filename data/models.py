@@ -3,7 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 import datetime
 import dateutil
-from config import CONST
+from config_app import CONST
 from collections import defaultdict
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
