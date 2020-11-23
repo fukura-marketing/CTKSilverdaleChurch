@@ -13,7 +13,6 @@ def page_not_found(e):
     Slack so that we can monitor and rectify any legitimate 404s
     :return: Render template
     """
-    print(e)
     return render_template('layouts/404.html'), 404
 
 
@@ -25,7 +24,6 @@ def server_error(e):
     Slack so that we can monitor and rectify any legitimate 500s
     :return: Render template
     """
-    print(e)
     return render_template('layouts/500.html'), 500
 
 

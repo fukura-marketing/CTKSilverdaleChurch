@@ -34,7 +34,6 @@ class EventsList:
     def group_events(self):
         events = self.get_events(self.limit)
         for row in events:
-            print(row)
             if 'date' in row['start']:
                 start = dateutil.parser.parse(row['start']['date'])
                 row['start']['year'] = start.year
