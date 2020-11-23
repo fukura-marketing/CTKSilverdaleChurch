@@ -120,7 +120,7 @@ def school_news():
     :return:
     """
     _data = cms.read_news_index(section='school')
-    _events = calendar.get_events(1)
+    # _events = calendar.get_events(1)
 
     _meta = {
         "title": 'NEWS'
