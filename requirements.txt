@@ -1,6 +1,7 @@
 # cat requirements.txt
 python-dateutil
 htmlmin
+coloredlogs
 httplib2
 requests
 flask
