@@ -24,12 +24,14 @@ class CMSRequest:
         :param options:
         :return:
         """
+        print(CONST.CMS_API + endpoint + options)
         return requests.get(CONST.CMS_API + endpoint + options)
 
     def read_account(self):
         endpoint = 'items/account/1'
         options = '?fields=*.*'
         response = self.get_request(endpoint, options)
+
         return response.json()['data']
 
     def read_navigation(self):

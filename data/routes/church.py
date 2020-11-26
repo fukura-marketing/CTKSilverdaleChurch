@@ -5,7 +5,6 @@ from data.models import EventsList
 
 cms = CMSRequest()
 church = Blueprint('church', __name__)
-calendar = EventsList(CONST.CALENDAR_CHURCH)
 
 
 @church.route('/')
@@ -25,8 +24,10 @@ def home():
     # Daily devotions
     # Questions? Answers from God’s Word
     # Pastor and Staff information
+    # calendar = EventsList(CONST.CALENDAR_CHURCH)
+
     _data = cms.read_home_page('church')
-    _events = calendar.get_events(5)
+    # _events = calendar.get_events(5)
     _context = 'church'
     _meta = {
         "title": _data['meta_title'],
@@ -39,6 +40,8 @@ def home():
 @church.route('/events')
 def events():
     _context = 'church'
+    calendar = EventsList(CONST.CALENDAR_CHURCH)
+
     _events_calendar = calendar.group_events()
     _events = calendar.get_events(1)
     _calendar_id = CONST.CALENDAR_CHURCH
@@ -55,7 +58,8 @@ def church_cms_page(slug):
     :return:
     """
     _data = cms.read_page_by_slug(section='church', slug=slug)[0]
-    _events = calendar.get_events(1)
+    # calendar = EventsList(CONST.CALENDAR_CHURCH)
+    # _events = calendar.get_events(1)
     _meta = {
         "title":_data['meta_title'],
         "description":_data['meta_description']
@@ -71,7 +75,8 @@ def church_news():
     :return:
     """
     _data = cms.read_news_index(section='church')
-    _events = calendar.get_events(1)
+    # calendar = EventsList(CONST.CALENDAR_CHURCH)
+    # _events = calendar.get_events(1)
 
     _meta = {
         "title": 'News Updates'
