@@ -25,9 +25,10 @@ def home():
     # Questions? Answers from God’s Word
     # Pastor and Staff information
     # calendar = EventsList(CONST.CALENDAR_CHURCH)
+    calendar = EventsList(CONST.CALENDAR_CHURCH)
 
     _data = cms.read_home_page('church')
-    # _events = calendar.get_events(5)
+    _events = calendar.get_events(5)
     _context = 'church'
     _meta = {
         "title": _data['meta_title'],
@@ -58,8 +59,8 @@ def church_cms_page(slug):
     :return:
     """
     _data = cms.read_page_by_slug(section='church', slug=slug)[0]
-    # calendar = EventsList(CONST.CALENDAR_CHURCH)
-    # _events = calendar.get_events(1)
+    calendar = EventsList(CONST.CALENDAR_CHURCH)
+    _events = calendar.get_events(1)
     _meta = {
         "title":_data['meta_title'],
         "description":_data['meta_description']
@@ -75,8 +76,8 @@ def church_news():
     :return:
     """
     _data = cms.read_news_index(section='church')
-    # calendar = EventsList(CONST.CALENDAR_CHURCH)
-    # _events = calendar.get_events(1)
+    calendar = EventsList(CONST.CALENDAR_CHURCH)
+    _events = calendar.get_events(1)
 
     _meta = {
         "title": 'News Updates'

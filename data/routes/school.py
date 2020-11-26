@@ -19,9 +19,8 @@ def home():
 
     _data = cms.read_home_page('school')
     _staff = cms.read_people('school')
-    # calendar = EventsList(CONST.CALENDAR_SCHOOL)
-
-    # _events = calendar.get_events(5)
+    calendar = EventsList(CONST.CALENDAR_SCHOOL)
+    _events = calendar.get_events(5)
 
     _meta = {
         "title": _data['meta_title'],
@@ -33,6 +32,8 @@ def home():
 
 @school.route('/events')
 def events():
+    _data = cms.read_home_page('school')
+
     calendar = EventsList(CONST.CALENDAR_SCHOOL)
     _events_calendar = calendar.group_events()
     _context = 'school'
@@ -52,8 +53,8 @@ def school_cms_page(slug):
     """
 
     _data = cms.read_page_by_slug(section='school', slug=slug)[0]
-    # calendar = EventsList(CONST.CALENDAR_SCHOOL)
-    # _events = calendar.get_events(1)
+    calendar = EventsList(CONST.CALENDAR_SCHOOL)
+    _events = calendar.get_events(1)
     _context = 'school'
     _meta = {
         "title": _data['meta_title'],
@@ -71,8 +72,8 @@ def school_staff_all():
     :return:
     """
     _data = cms.read_people('school')
-    # calendar = EventsList(CONST.CALENDAR_SCHOOL)
-    # _events = calendar.get_events(1)
+    calendar = EventsList(CONST.CALENDAR_SCHOOL)
+    _events = calendar.get_events(1)
     _meta = {
         "title": "School Staff",
         "description": ""
@@ -122,8 +123,8 @@ def school_news():
     :return:
     """
     _data = cms.read_news_index(section='school')
-    # calendar = EventsList(CONST.CALENDAR_SCHOOL)
-    # _events = calendar.get_events(1)
+    calendar = EventsList(CONST.CALENDAR_SCHOOL)
+    _events = calendar.get_events(1)
 
     _meta = {
         "title": 'NEWS'
