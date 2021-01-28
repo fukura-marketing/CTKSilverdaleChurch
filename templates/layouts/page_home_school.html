@@ -44,7 +44,7 @@
                 <ul class="staff_list mod-parttime col-sm-12 row">
                 {% for person in _staff %}
                     {% if person['role_type'] == 'part_time' %}
-                        {% set mod = {'picture': False, 'segment': 'school'} %}
+                        {% set mod = {'picture': True, 'segment': 'school'} %}
                         {% include 'atoms/atom_staff_list.html' %}
                     {% endif %}
                 {% endfor %}
@@ -53,7 +53,7 @@
                 <ul class="staff_list mod-support col-sm-12 row">
                 {% for person in _staff %}
                     {% if person['role_type'] == 'support' %}
-                        {% set mod = {'picture': False, 'segment': 'school'} %}
+                        {% set mod = {'picture': True, 'segment': 'school'} %}
                         {% include 'atoms/atom_staff_list.html' %}
                     {% endif %}
                 {% endfor %}
