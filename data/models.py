@@ -16,7 +16,7 @@ class EventsList:
         self.limit = 25
         self.calendar_id = calendar_id
         self.credentials = service_account.Credentials\
-            .from_service_account_info(CONST.SECRETS)
+            .from_service_account_file('gapi.json')
         self.project = self.credentials.with_scopes(
             scopes=['https://www.googleapis.com/auth/calendar.readonly'])
         self.service = build('calendar', 'v3', credentials=self.project)

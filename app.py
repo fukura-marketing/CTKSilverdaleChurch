@@ -1,5 +1,5 @@
 import coloredlogs
-import data
+from data import cms, models, controllers, routes
 from flask import Flask
 from flask_compress import Compress
 from flask_navigation import Navigation
@@ -15,8 +15,8 @@ Compress(app)
 nav = Navigation(app)
 
 ext = Sitemap(app)
-cms = data.cms.CMSRequest()
-rss = data.models.RSSRequest()
+cms = cms.CMSRequest()
+rss = models.RSSRequest()
 # events = data.models.EventsList()
 
 app.secret_key = CONST.SECRET
@@ -27,7 +27,7 @@ app.config['COMPRESS_MIMETYPES'] = ['text/html', 'text/css', 'text/xml',
                                     'application/json', 'image/svg+xml',
                                     'application/javascript']
 
-data.controllers.cache.init_app(app, config={'CACHE_TYPE': 'simple'})
+controllers.cache.init_app(app, config={'CACHE_TYPE': 'simple'})
 
 # Grab basic Global Variables
 app.jinja_env.globals['NONCE'] = CONST.NONCE
@@ -43,10 +43,10 @@ app.jinja_env.cache = {}
 
 
 # Register the Blueprints for Routes
-app.register_blueprint(data.controllers.processors)
-app.register_blueprint(data.routes.primary.primary)
-app.register_blueprint(data.routes.church.church, url_prefix="/church")
-app.register_blueprint(data.routes.school.school, url_prefix="/school")
+app.register_blueprint(controllers.processors)
+app.register_blueprint(routes.primary.primary)
+app.register_blueprint(routes.church.church, url_prefix="/church")
+app.register_blueprint(routes.school.school, url_prefix="/school")
 
 
 # @ext.register_generator
